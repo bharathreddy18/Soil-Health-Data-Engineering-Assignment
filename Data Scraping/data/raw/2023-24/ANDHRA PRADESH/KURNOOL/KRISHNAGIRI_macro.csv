@@ -1,0 +1,16 @@
+State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
+Agaveli,KURNOOL,KRISHNAGIRI - 5177,Agaveli,1,51,33,23,57,4,60,21,3,1,15,68,12,0,71,76,8,85,0,11,75,36,49,82,3,73,12,58,28
+Alamkonda,KURNOOL,KRISHNAGIRI - 5177,Alamkonda,0,4,4,0,6,2,5,3,0,0,2,6,2,0,6,7,1,8,0,0,8,6,1,8,0,5,3,7,1
+Amakathadu,KURNOOL,KRISHNAGIRI - 5177,Amakathadu,0,3,2,0,3,2,3,2,0,0,1,4,0,0,5,5,0,4,1,0,5,2,3,5,0,3,2,5,0
+Chityala,KURNOOL,KRISHNAGIRI - 5177,Chityala,0,1,3,0,1,3,3,0,1,0,1,3,0,0,4,4,0,4,0,2,2,4,0,4,0,0,4,4,0
+Chunchu Yerragudi,KURNOOL,KRISHNAGIRI - 5177,Chunchu Yerragudi,0,1,2,1,1,1,2,1,0,0,1,2,0,0,3,3,0,3,0,0,3,2,1,3,0,1,2,2,1
+Kambalapadu,KURNOOL,KRISHNAGIRI - 5177,Kambalapadu,0,0,2,0,1,1,2,0,0,0,0,2,0,0,2,2,0,2,0,0,2,2,0,2,0,0,2,2,0
+Katarikonda,KURNOOL,KRISHNAGIRI - 5177,Katarikonda,0,0,2,0,1,1,0,2,0,0,0,2,0,0,2,2,0,2,0,0,2,2,0,2,0,0,2,2,0
+Krishnagiri,KURNOOL,KRISHNAGIRI - 5177,Krishnagiri,0,0,2,0,0,2,1,0,1,0,0,2,0,0,2,2,0,2,0,0,2,1,1,2,0,0,2,2,0
+Lakkasagaram,KURNOOL,KRISHNAGIRI - 5177,Lakkasagaram,0,0,2,0,1,1,1,1,0,0,1,1,0,0,2,2,0,2,0,0,2,2,0,2,0,0,2,2,0
+Mannegunta,KURNOOL,KRISHNAGIRI - 5177,Mannegunta,0,0,1,0,1,0,1,0,0,0,0,1,0,0,1,0,1,1,0,0,1,0,1,1,0,0,1,1,0
+Pothugal,KURNOOL,KRISHNAGIRI - 5177,Pothugal,0,0,2,0,1,1,1,1,0,0,0,2,0,0,2,1,1,2,0,0,2,2,0,2,0,0,2,2,0
+Shotrium Yerragudi,KURNOOL,KRISHNAGIRI - 5177,Shotrium Yerragudi,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,1,0,1,0,0,1,0,1,1,0,0,1,1,0
+Tallagokulapadu,KURNOOL,KRISHNAGIRI - 5177,Tallagokulapadu,0,0,2,0,1,1,2,0,0,0,0,2,0,0,2,2,0,2,0,0,2,2,0,2,0,0,2,2,0
+Thogarchedu,KURNOOL,KRISHNAGIRI - 5177,Thogarchedu,0,0,2,0,1,1,0,2,0,0,0,2,1,0,1,2,0,2,0,0,2,1,1,2,0,0,2,2,0
+Yerukalacheruvu,KURNOOL,KRISHNAGIRI - 5177,Yerukalacheruvu,0,0,2,0,1,1,1,0,1,0,0,2,0,0,2,2,0,2,0,0,2,2,0,2,0,0,2,2,0

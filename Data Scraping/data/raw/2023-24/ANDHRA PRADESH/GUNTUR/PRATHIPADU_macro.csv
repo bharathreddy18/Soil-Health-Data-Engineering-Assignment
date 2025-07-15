@@ -1,0 +1,9 @@
+State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
+Enamadala,GUNTUR,PRATHIPADU - 4964,Enamadala,0,0,11,11,0,0,11,0,0,0,0,11,0,0,11,11,0,11,0,8,3,9,2,10,1,11,0,3,8
+Ganikapudi,GUNTUR,PRATHIPADU - 4964,Ganikapudi,0,0,2,1,1,0,2,0,0,1,1,0,0,0,2,2,0,2,0,2,0,1,1,2,0,2,0,1,1
+Gottipadu,GUNTUR,PRATHIPADU - 4964,Gottipadu,0,11,41,49,3,0,50,1,1,25,9,17,0,0,52,52,0,32,20,30,22,52,0,51,1,51,1,49,3
+Kondepadu,GUNTUR,PRATHIPADU - 4964,Kondepadu,0,6,2,5,2,1,8,0,0,7,0,1,4,0,4,8,0,8,0,1,7,4,4,8,0,8,0,0,8
+Mallayapalem,GUNTUR,PRATHIPADU - 4964,Mallayapalem,0,1,55,11,18,27,52,2,2,14,5,37,4,0,52,55,1,53,3,5,51,53,3,56,0,55,1,35,21
+Nadimpalem,GUNTUR,PRATHIPADU - 4964,Nadimpalem,0,2,4,0,5,1,6,0,0,3,0,3,0,0,6,6,0,3,3,6,0,1,5,6,0,6,0,6,0
+Prathipadu,GUNTUR,PRATHIPADU - 4964,Prathipadu,0,2,26,10,16,2,28,0,0,4,9,15,1,0,27,28,0,22,6,11,17,25,3,28,0,28,0,20,8
+Vangipuram,GUNTUR,PRATHIPADU - 4964,Vangipuram,0,0,37,33,4,0,19,12,6,2,6,29,2,0,35,37,0,37,0,2,35,16,21,37,0,37,0,35,2

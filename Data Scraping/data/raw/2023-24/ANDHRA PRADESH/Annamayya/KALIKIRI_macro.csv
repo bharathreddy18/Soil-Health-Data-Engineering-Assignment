@@ -1,0 +1,13 @@
+State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
+Cheekatipalle,Annamayya,KALIKIRI - 4765,Cheekatipalle,0,0,8,10,0,2,8,6,0,0,1,5,0,0,6,6,0,11,6,0,22,12,9,21,0,14,7,22,0
+Guttapalem,Annamayya,KALIKIRI - 4765,Guttapalem,0,1,20,22,2,0,22,5,0,1,0,20,0,0,16,18,0,21,7,3,27,30,0,28,3,17,11,31,0
+Kalikiri,Annamayya,KALIKIRI - 4765,Kalikiri,0,0,13,11,3,3,15,7,0,1,0,9,0,0,9,8,1,15,10,2,29,29,0,29,2,14,12,30,1
+Kalikirireddivari Palle,Annamayya,KALIKIRI - 4765,Kalikirireddivari Palle,1,5,26,19,9,4,21,11,0,0,5,27,3,1,28,31,1,23,9,2,30,22,10,24,5,19,13,31,1
+Korlakunta,Annamayya,KALIKIRI - 4765,Korlakunta,0,1,16,13,3,1,8,9,0,1,2,14,2,0,15,17,0,12,5,2,15,7,10,17,0,9,8,16,1
+Mahal,Annamayya,KALIKIRI - 4765,Mahal,0,0,3,0,1,2,3,0,0,0,0,3,0,0,3,3,0,1,2,1,2,3,0,2,1,3,0,3,0
+Marrikuntapalle,Annamayya,KALIKIRI - 4765,Marrikuntapalle,0,0,20,20,1,1,12,14,0,0,1,16,0,0,11,13,0,11,18,2,29,25,6,25,7,14,16,30,2
+Medikurthi,Annamayya,KALIKIRI - 4765,Medikurthi,0,0,12,11,4,2,16,5,0,0,0,10,0,0,8,10,0,14,9,1,29,30,0,31,1,15,12,32,0
+Munellapalle,Annamayya,KALIKIRI - 4765,Munellapalle,0,1,18,16,1,2,15,4,1,1,2,16,1,0,16,5,14,7,13,3,18,19,2,21,0,11,9,19,2
+Pallavolu,Annamayya,KALIKIRI - 4765,Pallavolu,0,4,27,23,6,2,21,9,2,0,3,27,0,0,28,7,21,24,8,7,25,27,5,27,5,14,18,29,3
+Parapatla,Annamayya,KALIKIRI - 4765,Parapatla,0,2,5,6,2,1,7,2,0,0,0,2,0,0,2,2,0,5,5,0,10,7,3,10,0,4,6,10,0
+Pathegada,Annamayya,KALIKIRI - 4765,Pathegada,0,0,5,2,3,1,3,4,0,0,0,5,0,0,4,4,0,5,4,0,11,5,6,11,1,3,7,12,0

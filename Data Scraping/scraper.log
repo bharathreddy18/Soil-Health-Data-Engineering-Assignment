@@ -2814,3 +2814,1517 @@ Stacktrace:
 	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
 	RtlUserThreadStart [0x0x7ffd98b314fc+44]
 
+2025-07-15 15:35:26,201 - INFO - Clicking Table View button
+2025-07-15 15:35:27,561 - INFO - Selecting cycle: 2023-24
+2025-07-15 15:35:31,861 - INFO - Found states: ['ANDAMAN & NICOBAR', 'ANDHRA PRADESH', 'ARUNACHAL PRADESH', 'ASSAM', 'BIHAR', 'CHHATTISGARH', 'DADRA & NAGAR HAVELI AND DAMAN & DIU', 'GOA', 'GUJARAT', 'HARYANA', 'HIMACHAL PRADESH', 'JAMMU & KASHMIR', 'JHARKHAND', 'KARNATAKA', 'KERALA', 'LADAKH', 'MADHYA PRADESH', 'MAHARASHTRA', 'MANIPUR', 'MEGHALAYA', 'MIZORAM', 'NAGALAND', 'ODISHA', 'PUDUCHERRY', 'PUNJAB', 'RAJASTHAN', 'SIKKIM', 'TAMIL NADU', 'TELANGANA', 'TRIPURA', 'UTTAR PRADESH', 'UTTARAKHAND', 'WEST BENGAL']
+2025-07-15 15:35:37,116 - INFO - For State: ANDAMAN & NICOBAR
+Found Districts: ['NICOBARS', 'NORTH AND MIDDLE ANDAMAN', 'SOUTH ANDAMANS']
+2025-07-15 15:35:41,931 - INFO - For State: ANDAMAN & NICOBAR and district: NICOBARS
+Found Blocks: ['CAMPBELL BAY - 6498', 'CAR NICOBAR - 6499', 'NANCOWRIE - 6500']
+2025-07-15 15:35:43,692 - INFO - Scraping: 2023-24 > ANDAMAN & NICOBAR > NICOBARS > CAMPBELL BAY - 6498
+2025-07-15 15:35:43,692 - INFO - Downloading Macro for CAMPBELL BAY.....
+2025-07-15 15:35:49,894 - INFO - Saved Macro CSV to C:\Users\Admin\Desktop\Projects\DE\Soil-Health-Data-Engineering-Assignment\Data Scraping\data\raw\2023-24\ANDAMAN & NICOBAR\NICOBARS\CAMPBELL BAY_macro.csv
+2025-07-15 15:35:53,149 - INFO - Saved Micro CSV to C:\Users\Admin\Desktop\Projects\DE\Soil-Health-Data-Engineering-Assignment\Data Scraping\data\raw\2023-24\ANDAMAN & NICOBAR\NICOBARS\CAMPBELL BAY_micro.csv
+2025-07-15 15:35:53,149 - INFO - Scraping: 2023-24 > ANDAMAN & NICOBAR > NICOBARS > CAR NICOBAR - 6499
+2025-07-15 15:35:53,149 - INFO - Downloading Macro for CAR NICOBAR.....
+2025-07-15 15:35:59,324 - INFO - Saved Macro CSV to C:\Users\Admin\Desktop\Projects\DE\Soil-Health-Data-Engineering-Assignment\Data Scraping\data\raw\2023-24\ANDAMAN & NICOBAR\NICOBARS\CAR NICOBAR_macro.csv
+2025-07-15 15:36:02,462 - INFO - Saved Micro CSV to C:\Users\Admin\Desktop\Projects\DE\Soil-Health-Data-Engineering-Assignment\Data Scraping\data\raw\2023-24\ANDAMAN & NICOBAR\NICOBARS\CAR NICOBAR_micro.csv
+2025-07-15 15:36:02,462 - INFO - Scraping: 2023-24 > ANDAMAN & NICOBAR > NICOBARS > NANCOWRIE - 6500
+2025-07-15 15:36:02,462 - INFO - Downloading Macro for NANCOWRIE.....
+2025-07-15 15:36:08,624 - INFO - Saved Macro CSV to C:\Users\Admin\Desktop\Projects\DE\Soil-Health-Data-Engineering-Assignment\Data Scraping\data\raw\2023-24\ANDAMAN & NICOBAR\NICOBARS\NANCOWRIE_macro.csv
+2025-07-15 15:36:11,741 - INFO - Saved Micro CSV to C:\Users\Admin\Desktop\Projects\DE\Soil-Health-Data-Engineering-Assignment\Data Scraping\data\raw\2023-24\ANDAMAN & NICOBAR\NICOBARS\NANCOWRIE_micro.csv
+2025-07-15 15:36:14,823 - INFO - For State: ANDAMAN & NICOBAR and district: NORTH AND MIDDLE ANDAMAN
+Found Blocks: ['DIGLIPUR - 6492', 'MAYABUNDER - 6495', 'RANGAT - 6497']
+2025-07-15 15:36:16,530 - INFO - Scraping: 2023-24 > ANDAMAN & NICOBAR > NORTH AND MIDDLE ANDAMAN > DIGLIPUR - 6492
+2025-07-15 15:36:16,530 - INFO - Downloading Macro for DIGLIPUR.....
+2025-07-15 15:36:20,129 - WARNING - SKipping (No Data): 2023-24 | ANDAMAN & NICOBAR | NORTH AND MIDDLE ANDAMAN | DIGLIPUR - 6492
+2025-07-15 15:36:20,129 - INFO - Scraping: 2023-24 > ANDAMAN & NICOBAR > NORTH AND MIDDLE ANDAMAN > MAYABUNDER - 6495
+2025-07-15 15:36:20,129 - INFO - Downloading Macro for MAYABUNDER.....
+2025-07-15 15:36:23,727 - WARNING - SKipping (No Data): 2023-24 | ANDAMAN & NICOBAR | NORTH AND MIDDLE ANDAMAN | MAYABUNDER - 6495
+2025-07-15 15:36:23,727 - INFO - Scraping: 2023-24 > ANDAMAN & NICOBAR > NORTH AND MIDDLE ANDAMAN > RANGAT - 6497
+2025-07-15 15:36:23,727 - INFO - Downloading Macro for RANGAT.....
+2025-07-15 15:36:29,776 - INFO - Saved Macro CSV to C:\Users\Admin\Desktop\Projects\DE\Soil-Health-Data-Engineering-Assignment\Data Scraping\data\raw\2023-24\ANDAMAN & NICOBAR\NORTH AND MIDDLE ANDAMAN\RANGAT_macro.csv
+2025-07-15 15:36:32,864 - INFO - Saved Micro CSV to C:\Users\Admin\Desktop\Projects\DE\Soil-Health-Data-Engineering-Assignment\Data Scraping\data\raw\2023-24\ANDAMAN & NICOBAR\NORTH AND MIDDLE ANDAMAN\RANGAT_micro.csv
+2025-07-15 15:36:35,926 - INFO - For State: ANDAMAN & NICOBAR and district: SOUTH ANDAMANS
+Found Blocks: ['FERRARGUNJ - 6493', 'LITTLE ANDAMAN - 6494', 'PROTHRAPUR - 6496']
+2025-07-15 15:36:37,632 - INFO - Scraping: 2023-24 > ANDAMAN & NICOBAR > SOUTH ANDAMANS > FERRARGUNJ - 6493
+2025-07-15 15:36:37,632 - INFO - Downloading Macro for FERRARGUNJ.....
+2025-07-15 15:36:43,761 - INFO - Saved Macro CSV to C:\Users\Admin\Desktop\Projects\DE\Soil-Health-Data-Engineering-Assignment\Data Scraping\data\raw\2023-24\ANDAMAN & NICOBAR\SOUTH ANDAMANS\FERRARGUNJ_macro.csv
+2025-07-15 15:36:46,880 - INFO - Saved Micro CSV to C:\Users\Admin\Desktop\Projects\DE\Soil-Health-Data-Engineering-Assignment\Data Scraping\data\raw\2023-24\ANDAMAN & NICOBAR\SOUTH ANDAMANS\FERRARGUNJ_micro.csv
+2025-07-15 15:36:46,880 - INFO - Scraping: 2023-24 > ANDAMAN & NICOBAR > SOUTH ANDAMANS > LITTLE ANDAMAN - 6494
+2025-07-15 15:36:46,880 - INFO - Downloading Macro for LITTLE ANDAMAN.....
+2025-07-15 15:36:50,597 - WARNING - SKipping (No Data): 2023-24 | ANDAMAN & NICOBAR | SOUTH ANDAMANS | LITTLE ANDAMAN - 6494
+2025-07-15 15:36:50,597 - INFO - Scraping: 2023-24 > ANDAMAN & NICOBAR > SOUTH ANDAMANS > PROTHRAPUR - 6496
+2025-07-15 15:36:50,597 - INFO - Downloading Macro for PROTHRAPUR.....
+2025-07-15 15:36:56,669 - INFO - Saved Macro CSV to C:\Users\Admin\Desktop\Projects\DE\Soil-Health-Data-Engineering-Assignment\Data Scraping\data\raw\2023-24\ANDAMAN & NICOBAR\SOUTH ANDAMANS\PROTHRAPUR_macro.csv
+2025-07-15 15:36:59,779 - INFO - Saved Micro CSV to C:\Users\Admin\Desktop\Projects\DE\Soil-Health-Data-Engineering-Assignment\Data Scraping\data\raw\2023-24\ANDAMAN & NICOBAR\SOUTH ANDAMANS\PROTHRAPUR_micro.csv
+2025-07-15 15:37:03,316 - INFO - For State: ANDHRA PRADESH
+Found Districts: ['ANANTAPUR', 'Alluri Sitharama Raju', 'Anakapalli', 'Annamayya', 'Bapatla', 'CHITTOOR', 'EAST GODAVARI', 'Eluru', 'GUNTUR', 'KRISHNA', 'KURNOOL', 'Kakinada', 'Konaseema', 'NTR', 'Nandyal', 'PRAKASAM', 'Palnadu', 'Parvathipuram Manyam', 'SPSR NELLORE', 'SRIKAKULAM', 'Sri Sathya Sai', 'Tirupati', 'VISAKHAPATANAM', 'VIZIANAGARAM', 'WEST GODAVARI', 'Y.S.R.']
+2025-07-15 15:37:08,752 - INFO - For State: ANDHRA PRADESH and district: ANANTAPUR
+Found Blocks: ['ANANTAPUR - 4689', 'ATMAKUR - 4690', 'BELUGUPPA - 4692', 'BOMMANAHAL - 4693', 'BRAHMASAMUDRAM - 4694', 'BUKKARAYASAMUDRAM - 4696', 'D.HIREHAL - 4699', 'GARLADINNE - 4702', 'GOOTY - 4703', 'GUMMAGATTA - 4706', 'GUNTAKAL - 4707', 'KALYANDRUG - 4710', 'KAMBADUR - 4711', 'KANEKAL - 4713', 'KUDAIR - 4715', 'KUNDURPI - 4716', 'NARPALA - 4723', 'PAMIDI - 4725', 'PEDDAPAPPUR - 4727', 'PEDDAVADUGUR - 4728', 'PUTLUR - 4730', 'RAPTADU - 4733', 'RAYADURG - 4734', 'SETTUR - 4737', 'SINGANAMALA - 4738', 'TADIPATRI - 4741', 'URAVAKONDA - 4744', 'VAJRAKARUR - 4745', 'VIDAPANAKAL - 4746', 'YADIKI - 4747', 'YELLANUR - 4748']
+2025-07-15 15:37:10,519 - INFO - Scraping: 2023-24 > ANDHRA PRADESH > ANANTAPUR > ANANTAPUR - 4689
+2025-07-15 15:37:10,519 - INFO - Downloading Macro for ANANTAPUR.....
+2025-07-15 15:37:17,280 - INFO - Saved Macro CSV to C:\Users\Admin\Desktop\Projects\DE\Soil-Health-Data-Engineering-Assignment\Data Scraping\data\raw\2023-24\ANDHRA PRADESH\ANANTAPUR\ANANTAPUR_macro.csv
+2025-07-15 15:37:20,438 - INFO - Saved Micro CSV to C:\Users\Admin\Desktop\Projects\DE\Soil-Health-Data-Engineering-Assignment\Data Scraping\data\raw\2023-24\ANDHRA PRADESH\ANANTAPUR\ANANTAPUR_micro.csv
+2025-07-15 15:37:20,438 - INFO - Scraping: 2023-24 > ANDHRA PRADESH > ANANTAPUR > ATMAKUR - 4690
+2025-07-15 15:37:20,439 - INFO - Downloading Macro for ATMAKUR.....
+2025-07-15 15:37:26,604 - INFO - Saved Macro CSV to C:\Users\Admin\Desktop\Projects\DE\Soil-Health-Data-Engineering-Assignment\Data Scraping\data\raw\2023-24\ANDHRA PRADESH\ANANTAPUR\ATMAKUR_macro.csv
+2025-07-15 15:37:29,717 - INFO - Saved Micro CSV to C:\Users\Admin\Desktop\Projects\DE\Soil-Health-Data-Engineering-Assignment\Data Scraping\data\raw\2023-24\ANDHRA PRADESH\ANANTAPUR\ATMAKUR_micro.csv
+2025-07-15 15:37:29,717 - INFO - Scraping: 2023-24 > ANDHRA PRADESH > ANANTAPUR > BELUGUPPA - 4692
+2025-07-15 15:37:29,717 - INFO - Downloading Macro for BELUGUPPA.....
+2025-07-15 15:37:51,809 - INFO - Saved Macro CSV to C:\Users\Admin\Desktop\Projects\DE\Soil-Health-Data-Engineering-Assignment\Data Scraping\data\raw\2023-24\ANDHRA PRADESH\ANANTAPUR\BELUGUPPA_macro.csv
+2025-07-15 15:37:54,959 - INFO - Saved Micro CSV to C:\Users\Admin\Desktop\Projects\DE\Soil-Health-Data-Engineering-Assignment\Data Scraping\data\raw\2023-24\ANDHRA PRADESH\ANANTAPUR\BELUGUPPA_micro.csv
+2025-07-15 15:37:54,959 - INFO - Scraping: 2023-24 > ANDHRA PRADESH > ANANTAPUR > BOMMANAHAL - 4693
+2025-07-15 15:37:54,959 - INFO - Downloading Macro for BOMMANAHAL.....
+2025-07-15 15:37:55,634 - ERROR - Dropdown click failed for Block -> BOMMANAHAL - 4693: 'NoneType' object has no attribute 'is_displayed'
+2025-07-15 15:37:56,135 - ERROR - Error downloading files for 2023-24 > ANDHRA PRADESH > ANANTAPUR > BOMMANAHAL - 4693
+2025-07-15 15:37:56,137 - INFO - Scraping: 2023-24 > ANDHRA PRADESH > ANANTAPUR > BRAHMASAMUDRAM - 4694
+2025-07-15 15:37:56,137 - INFO - Downloading Macro for BRAHMASAMUDRAM.....
+2025-07-15 15:37:56,137 - ERROR - Error downloading files for 2023-24 > ANDHRA PRADESH > ANANTAPUR > BRAHMASAMUDRAM - 4694
+2025-07-15 15:37:56,137 - INFO - Scraping: 2023-24 > ANDHRA PRADESH > ANANTAPUR > BUKKARAYASAMUDRAM - 4696
+2025-07-15 15:37:56,137 - INFO - Downloading Macro for BUKKARAYASAMUDRAM.....
+2025-07-15 15:37:56,137 - ERROR - Error downloading files for 2023-24 > ANDHRA PRADESH > ANANTAPUR > BUKKARAYASAMUDRAM - 4696
+2025-07-15 15:37:56,137 - INFO - Scraping: 2023-24 > ANDHRA PRADESH > ANANTAPUR > D.HIREHAL - 4699
+2025-07-15 15:37:56,137 - INFO - Downloading Macro for D.HIREHAL.....
+2025-07-15 15:37:56,141 - ERROR - Error downloading files for 2023-24 > ANDHRA PRADESH > ANANTAPUR > D.HIREHAL - 4699
+2025-07-15 15:37:56,141 - INFO - Scraping: 2023-24 > ANDHRA PRADESH > ANANTAPUR > GARLADINNE - 4702
+2025-07-15 15:37:56,141 - INFO - Downloading Macro for GARLADINNE.....
+2025-07-15 15:37:56,144 - ERROR - Error downloading files for 2023-24 > ANDHRA PRADESH > ANANTAPUR > GARLADINNE - 4702
+2025-07-15 15:37:56,144 - INFO - Scraping: 2023-24 > ANDHRA PRADESH > ANANTAPUR > GOOTY - 4703
+2025-07-15 15:37:56,144 - INFO - Downloading Macro for GOOTY.....
+2025-07-15 15:37:56,144 - ERROR - Error downloading files for 2023-24 > ANDHRA PRADESH > ANANTAPUR > GOOTY - 4703
+2025-07-15 15:37:56,144 - INFO - Scraping: 2023-24 > ANDHRA PRADESH > ANANTAPUR > GUMMAGATTA - 4706
+2025-07-15 15:37:56,144 - INFO - Downloading Macro for GUMMAGATTA.....
+2025-07-15 15:37:56,149 - ERROR - Error downloading files for 2023-24 > ANDHRA PRADESH > ANANTAPUR > GUMMAGATTA - 4706
+2025-07-15 15:37:56,149 - INFO - Scraping: 2023-24 > ANDHRA PRADESH > ANANTAPUR > GUNTAKAL - 4707
+2025-07-15 15:37:56,149 - INFO - Downloading Macro for GUNTAKAL.....
+2025-07-15 15:37:56,149 - ERROR - Error downloading files for 2023-24 > ANDHRA PRADESH > ANANTAPUR > GUNTAKAL - 4707
+2025-07-15 15:37:56,149 - INFO - Scraping: 2023-24 > ANDHRA PRADESH > ANANTAPUR > KALYANDRUG - 4710
+2025-07-15 15:37:56,149 - INFO - Downloading Macro for KALYANDRUG.....
+2025-07-15 15:37:56,149 - ERROR - Error downloading files for 2023-24 > ANDHRA PRADESH > ANANTAPUR > KALYANDRUG - 4710
+2025-07-15 15:37:56,149 - INFO - Scraping: 2023-24 > ANDHRA PRADESH > ANANTAPUR > KAMBADUR - 4711
+2025-07-15 15:37:56,149 - INFO - Downloading Macro for KAMBADUR.....
+2025-07-15 15:37:56,149 - ERROR - Error downloading files for 2023-24 > ANDHRA PRADESH > ANANTAPUR > KAMBADUR - 4711
+2025-07-15 15:37:56,149 - INFO - Scraping: 2023-24 > ANDHRA PRADESH > ANANTAPUR > KANEKAL - 4713
+2025-07-15 15:37:56,149 - INFO - Downloading Macro for KANEKAL.....
+2025-07-15 15:37:56,149 - ERROR - Error downloading files for 2023-24 > ANDHRA PRADESH > ANANTAPUR > KANEKAL - 4713
+2025-07-15 15:37:56,149 - INFO - Scraping: 2023-24 > ANDHRA PRADESH > ANANTAPUR > KUDAIR - 4715
+2025-07-15 15:37:56,149 - INFO - Downloading Macro for KUDAIR.....
+2025-07-15 15:37:56,149 - ERROR - Error downloading files for 2023-24 > ANDHRA PRADESH > ANANTAPUR > KUDAIR - 4715
+2025-07-15 15:37:56,149 - INFO - Scraping: 2023-24 > ANDHRA PRADESH > ANANTAPUR > KUNDURPI - 4716
+2025-07-15 15:37:56,149 - INFO - Downloading Macro for KUNDURPI.....
+2025-07-15 15:37:56,149 - ERROR - Error downloading files for 2023-24 > ANDHRA PRADESH > ANANTAPUR > KUNDURPI - 4716
+2025-07-15 15:37:56,149 - INFO - Scraping: 2023-24 > ANDHRA PRADESH > ANANTAPUR > NARPALA - 4723
+2025-07-15 15:37:56,149 - INFO - Downloading Macro for NARPALA.....
+2025-07-15 15:37:56,163 - ERROR - Error downloading files for 2023-24 > ANDHRA PRADESH > ANANTAPUR > NARPALA - 4723
+2025-07-15 15:37:56,163 - INFO - Scraping: 2023-24 > ANDHRA PRADESH > ANANTAPUR > PAMIDI - 4725
+2025-07-15 15:37:56,163 - INFO - Downloading Macro for PAMIDI.....
+2025-07-15 15:37:56,165 - ERROR - Error downloading files for 2023-24 > ANDHRA PRADESH > ANANTAPUR > PAMIDI - 4725
+2025-07-15 15:37:56,165 - INFO - Scraping: 2023-24 > ANDHRA PRADESH > ANANTAPUR > PEDDAPAPPUR - 4727
+2025-07-15 15:37:56,165 - INFO - Downloading Macro for PEDDAPAPPUR.....
+2025-07-15 15:37:56,165 - ERROR - Error downloading files for 2023-24 > ANDHRA PRADESH > ANANTAPUR > PEDDAPAPPUR - 4727
+2025-07-15 15:37:56,165 - INFO - Scraping: 2023-24 > ANDHRA PRADESH > ANANTAPUR > PEDDAVADUGUR - 4728
+2025-07-15 15:37:56,165 - INFO - Downloading Macro for PEDDAVADUGUR.....
+2025-07-15 15:37:56,165 - ERROR - Error downloading files for 2023-24 > ANDHRA PRADESH > ANANTAPUR > PEDDAVADUGUR - 4728
+2025-07-15 15:37:56,165 - INFO - Scraping: 2023-24 > ANDHRA PRADESH > ANANTAPUR > PUTLUR - 4730
+2025-07-15 15:37:56,165 - INFO - Downloading Macro for PUTLUR.....
+2025-07-15 15:37:56,165 - ERROR - Error downloading files for 2023-24 > ANDHRA PRADESH > ANANTAPUR > PUTLUR - 4730
+2025-07-15 15:37:56,165 - INFO - Scraping: 2023-24 > ANDHRA PRADESH > ANANTAPUR > RAPTADU - 4733
+2025-07-15 15:37:56,165 - INFO - Downloading Macro for RAPTADU.....
+2025-07-15 15:37:56,165 - ERROR - Error downloading files for 2023-24 > ANDHRA PRADESH > ANANTAPUR > RAPTADU - 4733
+2025-07-15 15:37:56,165 - INFO - Scraping: 2023-24 > ANDHRA PRADESH > ANANTAPUR > RAYADURG - 4734
+2025-07-15 15:37:56,165 - INFO - Downloading Macro for RAYADURG.....
+2025-07-15 15:37:56,165 - ERROR - Error downloading files for 2023-24 > ANDHRA PRADESH > ANANTAPUR > RAYADURG - 4734
+2025-07-15 15:37:56,165 - INFO - Scraping: 2023-24 > ANDHRA PRADESH > ANANTAPUR > SETTUR - 4737
+2025-07-15 15:37:56,165 - INFO - Downloading Macro for SETTUR.....
+2025-07-15 15:37:56,165 - ERROR - Error downloading files for 2023-24 > ANDHRA PRADESH > ANANTAPUR > SETTUR - 4737
+2025-07-15 15:37:56,165 - INFO - Scraping: 2023-24 > ANDHRA PRADESH > ANANTAPUR > SINGANAMALA - 4738
+2025-07-15 15:37:56,165 - INFO - Downloading Macro for SINGANAMALA.....
+2025-07-15 15:37:56,165 - ERROR - Error downloading files for 2023-24 > ANDHRA PRADESH > ANANTAPUR > SINGANAMALA - 4738
+2025-07-15 15:37:56,165 - INFO - Scraping: 2023-24 > ANDHRA PRADESH > ANANTAPUR > TADIPATRI - 4741
+2025-07-15 15:37:56,180 - INFO - Downloading Macro for TADIPATRI.....
+2025-07-15 15:37:56,180 - ERROR - Error downloading files for 2023-24 > ANDHRA PRADESH > ANANTAPUR > TADIPATRI - 4741
+2025-07-15 15:37:56,180 - INFO - Scraping: 2023-24 > ANDHRA PRADESH > ANANTAPUR > URAVAKONDA - 4744
+2025-07-15 15:37:56,180 - INFO - Downloading Macro for URAVAKONDA.....
+2025-07-15 15:37:56,180 - ERROR - Error downloading files for 2023-24 > ANDHRA PRADESH > ANANTAPUR > URAVAKONDA - 4744
+2025-07-15 15:37:56,180 - INFO - Scraping: 2023-24 > ANDHRA PRADESH > ANANTAPUR > VAJRAKARUR - 4745
+2025-07-15 15:37:56,180 - INFO - Downloading Macro for VAJRAKARUR.....
+2025-07-15 15:37:56,180 - ERROR - Error downloading files for 2023-24 > ANDHRA PRADESH > ANANTAPUR > VAJRAKARUR - 4745
+2025-07-15 15:37:56,180 - INFO - Scraping: 2023-24 > ANDHRA PRADESH > ANANTAPUR > VIDAPANAKAL - 4746
+2025-07-15 15:37:56,180 - INFO - Downloading Macro for VIDAPANAKAL.....
+2025-07-15 15:37:56,180 - ERROR - Error downloading files for 2023-24 > ANDHRA PRADESH > ANANTAPUR > VIDAPANAKAL - 4746
+2025-07-15 15:37:56,180 - INFO - Scraping: 2023-24 > ANDHRA PRADESH > ANANTAPUR > YADIKI - 4747
+2025-07-15 15:37:56,180 - INFO - Downloading Macro for YADIKI.....
+2025-07-15 15:37:56,180 - ERROR - Error downloading files for 2023-24 > ANDHRA PRADESH > ANANTAPUR > YADIKI - 4747
+2025-07-15 15:37:56,180 - INFO - Scraping: 2023-24 > ANDHRA PRADESH > ANANTAPUR > YELLANUR - 4748
+2025-07-15 15:37:56,180 - INFO - Downloading Macro for YELLANUR.....
+2025-07-15 15:37:56,180 - ERROR - Error downloading files for 2023-24 > ANDHRA PRADESH > ANANTAPUR > YELLANUR - 4748
+2025-07-15 15:37:56,180 - ERROR - Failed district: Alluri Sitharama Raju | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,180 - ERROR - Failed district: Anakapalli | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,180 - ERROR - Failed district: Annamayya | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,196 - ERROR - Failed district: Bapatla | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,196 - ERROR - Failed district: CHITTOOR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,196 - ERROR - Failed district: EAST GODAVARI | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,196 - ERROR - Failed district: Eluru | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,196 - ERROR - Failed district: GUNTUR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,196 - ERROR - Failed district: KRISHNA | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,196 - ERROR - Failed district: KURNOOL | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,196 - ERROR - Failed district: Kakinada | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,196 - ERROR - Failed district: Konaseema | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,196 - ERROR - Failed district: NTR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,196 - ERROR - Failed district: Nandyal | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,211 - ERROR - Failed district: PRAKASAM | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,211 - ERROR - Failed district: Palnadu | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,211 - ERROR - Failed district: Parvathipuram Manyam | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,218 - ERROR - Failed district: SPSR NELLORE | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,220 - ERROR - Failed district: SRIKAKULAM | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,222 - ERROR - Failed district: Sri Sathya Sai | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,222 - ERROR - Failed district: Tirupati | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,222 - ERROR - Failed district: VISAKHAPATANAM | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,222 - ERROR - Failed district: VIZIANAGARAM | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,227 - ERROR - Failed district: WEST GODAVARI | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,227 - ERROR - Failed district: Y.S.R. | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,227 - ERROR - Failed State: ARUNACHAL PRADESH | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,227 - ERROR - Failed State: ASSAM | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,227 - ERROR - Failed State: BIHAR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,227 - ERROR - Failed State: CHHATTISGARH | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,227 - ERROR - Failed State: DADRA & NAGAR HAVELI AND DAMAN & DIU | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,227 - ERROR - Failed State: GOA | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,227 - ERROR - Failed State: GUJARAT | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,243 - ERROR - Failed State: HARYANA | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,243 - ERROR - Failed State: HIMACHAL PRADESH | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,243 - ERROR - Failed State: JAMMU & KASHMIR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,243 - ERROR - Failed State: JHARKHAND | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,243 - ERROR - Failed State: KARNATAKA | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,243 - ERROR - Failed State: KERALA | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,243 - ERROR - Failed State: LADAKH | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,243 - ERROR - Failed State: MADHYA PRADESH | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,243 - ERROR - Failed State: MAHARASHTRA | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,243 - ERROR - Failed State: MANIPUR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,243 - ERROR - Failed State: MEGHALAYA | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,259 - ERROR - Failed State: MIZORAM | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,261 - ERROR - Failed State: NAGALAND | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,263 - ERROR - Failed State: ODISHA | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,265 - ERROR - Failed State: PUDUCHERRY | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,267 - ERROR - Failed State: PUNJAB | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,269 - ERROR - Failed State: RAJASTHAN | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,269 - ERROR - Failed State: SIKKIM | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,271 - ERROR - Failed State: TAMIL NADU | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,273 - ERROR - Failed State: TELANGANA | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,275 - ERROR - Failed State: TRIPURA | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,275 - ERROR - Failed State: UTTAR PRADESH | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,277 - ERROR - Failed State: UTTARAKHAND | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,279 - ERROR - Failed State: WEST BENGAL | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+
+2025-07-15 15:37:56,279 - INFO - Selecting cycle: 2024-25
+2025-07-15 15:37:56,281 - ERROR - Dropdown click failed for Cycle -> 2024-25: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.103)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7916ecda5+78885]
+	GetHandleVerifier [0x0x7ff7916ece00+78976]
+	(No symbol) [0x0x7ff7914a9bca]
+	(No symbol) [0x0x7ff791481e71]
+	(No symbol) [0x0x7ff79153039e]
+	(No symbol) [0x0x7ff791550b42]
+	(No symbol) [0x0x7ff791528963]
+	(No symbol) [0x0x7ff7914f16b1]
+	(No symbol) [0x0x7ff7914f2443]
+	GetHandleVerifier [0x0x7ff7919c4eed+3061101]
+	GetHandleVerifier [0x0x7ff7919bf33d+3037629]
+	GetHandleVerifier [0x0x7ff7919de592+3165202]
+	GetHandleVerifier [0x0x7ff79170730e+186766]
+	GetHandleVerifier [0x0x7ff79170eb3f+217535]
+	GetHandleVerifier [0x0x7ff7916f59b4+114740]
+	GetHandleVerifier [0x0x7ff7916f5b69+115177]
+	GetHandleVerifier [0x0x7ff7916dc368+10728]
+	BaseThreadInitThunk [0x0x7ffd978de8d7+23]
+	RtlUserThreadStart [0x0x7ffd98b314fc+44]
+

@@ -1,0 +1,16 @@
+State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
+Dandapalle,CHITTOOR,GANGAVARAM - 4758,Dandapalle,0,12,46,23,24,11,14,31,13,0,13,45,1,0,57,58,0,54,4,44,14,44,14,56,2,52,6,54,4
+Gandrajupalle,CHITTOOR,GANGAVARAM - 4758,Gandrajupalle,0,14,33,30,12,5,15,28,4,2,14,31,0,1,46,47,0,42,5,36,11,38,9,45,1,42,5,41,6
+Gangavaram (Part),CHITTOOR,GANGAVARAM - 4758,Gangavaram (Part),0,8,15,9,14,0,10,13,0,0,8,15,0,0,23,23,0,19,4,21,2,20,3,23,0,21,2,22,1
+Gundugallu,CHITTOOR,GANGAVARAM - 4758,Gundugallu,2,14,25,11,22,8,19,19,3,2,7,32,0,0,41,41,0,22,19,30,11,34,7,40,1,38,3,39,2
+Jeedimakulapalle,CHITTOOR,GANGAVARAM - 4758,Jeedimakulapalle,0,3,20,9,10,4,2,16,5,1,2,20,0,0,23,23,0,18,5,15,8,20,3,21,0,22,1,19,4
+Kalagatoor,CHITTOOR,GANGAVARAM - 4758,Kalagatoor,0,6,19,10,12,3,16,8,1,0,7,18,0,0,25,25,0,22,3,21,4,21,4,25,0,23,2,22,3
+Kallupalle,CHITTOOR,GANGAVARAM - 4758,Kallupalle,0,11,19,12,14,4,14,15,1,0,12,18,0,0,30,30,0,22,8,20,10,26,4,29,1,27,3,28,2
+Keelapalle,CHITTOOR,GANGAVARAM - 4758,Keelapalle,0,5,9,8,5,1,8,6,0,0,5,9,0,0,14,14,0,11,3,9,5,13,1,13,1,12,2,12,2
+Keelapatla,CHITTOOR,GANGAVARAM - 4758,Keelapatla,0,5,22,8,15,4,9,15,3,2,3,22,0,0,27,27,0,21,6,24,3,23,4,27,0,24,3,24,3
+Kothapalle,CHITTOOR,GANGAVARAM - 4758,Kothapalle,0,7,11,8,5,5,9,7,2,1,6,11,0,0,18,18,0,16,2,15,3,16,2,17,1,15,3,16,2
+Mamadugu,CHITTOOR,GANGAVARAM - 4758,Mamadugu,0,7,17,15,6,3,12,11,1,0,7,17,1,0,23,24,0,18,6,20,4,19,5,24,0,21,3,20,4
+Maredupalle,CHITTOOR,GANGAVARAM - 4758,Maredupalle,0,0,2,1,1,0,1,1,0,0,0,2,0,0,2,2,0,2,0,1,1,2,0,2,0,2,0,2,0
+Melumoy,CHITTOOR,GANGAVARAM - 4758,Melumoy,0,11,15,8,9,9,8,13,5,0,11,15,0,1,25,26,0,25,1,21,5,20,6,23,3,23,3,23,3
+Pasupathur,CHITTOOR,GANGAVARAM - 4758,Pasupathur,0,5,17,8,8,6,11,10,1,0,5,17,0,0,22,22,0,17,5,20,2,20,2,19,3,21,1,20,2
+Pathikonda,CHITTOOR,GANGAVARAM - 4758,Pathikonda,0,4,21,4,16,5,15,10,0,0,4,21,0,0,25,25,0,21,4,23,2,20,5,24,1,22,3,20,5

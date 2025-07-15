@@ -1,0 +1,13 @@
+State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
+Eti Koppaka,Anakapalli,YELAMANCHILI - 5622,Eti Koppaka,1,2,6,8,1,0,3,3,3,0,2,7,0,0,9,9,0,8,1,8,1,7,2,9,0,9,0,9,0
+Jampapalem,Anakapalli,YELAMANCHILI - 5622,Jampapalem,1,2,9,3,1,8,7,5,0,1,7,4,2,0,10,11,1,12,0,12,0,10,2,11,1,12,0,7,5
+Kattupalem,Anakapalli,YELAMANCHILI - 5622,Kattupalem,4,0,5,4,3,2,2,4,3,4,2,3,1,0,8,7,2,8,1,6,3,7,2,7,2,9,0,7,2
+Kokkirapalle,Anakapalli,YELAMANCHILI - 5622,Kokkirapalle,0,1,6,2,3,2,2,3,2,1,4,2,0,0,7,6,1,5,2,7,0,7,0,6,0,7,0,6,1
+Krishnapuram,Anakapalli,YELAMANCHILI - 5622,Krishnapuram,3,14,21,37,2,0,19,12,7,8,8,22,0,0,38,36,2,30,8,35,3,26,12,38,0,38,0,38,0
+Regupalem,Anakapalli,YELAMANCHILI - 5622,Regupalem,9,10,21,28,8,4,21,15,4,10,14,16,0,0,40,38,2,34,6,33,7,27,13,29,11,40,0,37,3
+Somilingapalem,Anakapalli,YELAMANCHILI - 5622,Somilingapalem,3,6,7,8,8,0,8,4,4,4,7,5,15,0,1,10,6,14,2,15,1,15,1,16,0,16,0,15,0
+Somilingapalem,Anakapalli,YELAMANCHILI - 5622,Somilingapalem,4,7,14,15,10,0,13,8,4,6,9,10,0,0,25,23,2,22,3,24,1,24,1,25,0,25,0,25,0
+Teruvupalle,Anakapalli,YELAMANCHILI - 5622,Teruvupalle,11,12,11,30,2,2,16,11,7,17,7,10,0,0,34,33,1,30,4,26,8,30,4,10,24,34,0,27,7
+Thurangalapalem,Anakapalli,YELAMANCHILI - 5622,Thurangalapalem,2,7,10,1,4,14,15,2,2,3,13,3,1,0,18,19,0,18,1,19,0,17,2,17,2,19,0,15,4
+Yelamanchili (CT),Anakapalli,YELAMANCHILI - 5622,Yelamanchili (CT),12,3,15,21,5,4,14,11,5,15,7,8,0,0,30,27,3,30,0,30,0,15,15,28,2,30,0,26,4
+Yerravaram,Anakapalli,YELAMANCHILI - 5622,Yerravaram,20,30,26,59,10,7,35,31,10,26,27,23,2,1,73,73,3,67,9,72,4,68,8,50,26,76,0,74,2

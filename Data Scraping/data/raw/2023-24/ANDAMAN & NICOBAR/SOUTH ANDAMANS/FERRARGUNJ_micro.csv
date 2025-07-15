@@ -1,0 +1,17 @@
+State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
+Alipur (RV),SOUTH ANDAMANS,FERRARGUNJ - 6493,Alipur (RV),0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,1,0,0,1,1,0,1,0,1,0,1,0,1,0
+Bindraban (RV),SOUTH ANDAMANS,FERRARGUNJ - 6493,Bindraban (RV),0,3,5,0,2,6,0,1,7,0,0,8,0,0,8,8,0,0,8,8,0,8,0,8,0,8,0,8,0
+Caddlegunj (RV) (incl. Sona Pahar & Hazari Bagh (JPPC),SOUTH ANDAMANS,FERRARGUNJ - 6493,Caddlegunj (RV) (incl. Sona Pahar & Hazari Bagh (JPPC),0,1,0,0,0,1,0,0,1,0,0,1,0,0,1,1,0,0,1,1,0,1,0,1,0,1,0,1,0
+Chouldari (RV),SOUTH ANDAMANS,FERRARGUNJ - 6493,Chouldari (RV),0,11,29,0,14,26,1,2,37,0,0,40,0,0,40,40,0,0,40,40,0,40,0,40,0,40,0,40,0
+Colinpur (RV),SOUTH ANDAMANS,FERRARGUNJ - 6493,Colinpur (RV),0,5,7,0,5,7,0,1,11,0,0,12,0,2,10,12,0,0,12,12,0,4,8,12,0,12,0,11,1
+Dhanikhari (RV),SOUTH ANDAMANS,FERRARGUNJ - 6493,Dhanikhari (RV),0,0,1,0,1,0,0,0,1,0,0,1,0,0,1,1,0,0,1,1,0,1,0,1,0,1,0,1,0
+Hashmatabad (RV),SOUTH ANDAMANS,FERRARGUNJ - 6493,Hashmatabad (RV),0,3,5,0,4,4,0,1,7,0,0,8,0,0,8,8,0,0,8,8,0,8,0,8,0,8,0,8,0
+Herbertabad (RV),SOUTH ANDAMANS,FERRARGUNJ - 6493,Herbertabad (RV),0,3,6,0,4,5,0,0,9,0,0,9,0,3,6,9,0,0,9,9,0,1,8,9,0,9,0,9,0
+Hobdipur (RV),SOUTH ANDAMANS,FERRARGUNJ - 6493,Hobdipur (RV),0,8,7,0,3,12,0,0,15,0,0,15,0,0,15,14,1,1,14,15,0,12,3,11,4,15,0,15,0
+Manpur (RV),SOUTH ANDAMANS,FERRARGUNJ - 6493,Manpur (RV),0,15,17,0,10,22,0,2,30,0,0,32,0,6,26,32,0,0,32,31,1,22,10,31,1,32,0,32,0
+Maymyo (RV),SOUTH ANDAMANS,FERRARGUNJ - 6493,Maymyo (RV),0,2,3,0,3,2,0,2,3,0,0,5,0,0,5,5,0,0,5,5,0,5,0,5,0,5,0,5,0
+Mithakhari (RV),SOUTH ANDAMANS,FERRARGUNJ - 6493,Mithakhari (RV),0,3,12,0,5,10,0,1,14,0,0,15,0,0,15,15,0,0,15,15,0,13,2,15,0,15,0,15,0
+Namunaghar (RV),SOUTH ANDAMANS,FERRARGUNJ - 6493,Namunaghar (RV),0,3,7,0,3,7,0,1,9,0,0,10,0,0,10,10,0,0,10,10,0,10,0,10,0,10,0,10,0
+Tirur (RV),SOUTH ANDAMANS,FERRARGUNJ - 6493,Tirur (RV),0,8,3,0,4,7,0,0,11,0,0,11,0,9,2,9,2,0,11,11,0,11,0,11,0,11,0,11,0
+Tusnabad (RV),SOUTH ANDAMANS,FERRARGUNJ - 6493,Tusnabad (RV),0,4,25,0,9,20,0,0,29,0,1,28,0,0,29,28,1,1,28,29,0,17,12,21,8,29,0,29,0
+Wandur (RV),SOUTH ANDAMANS,FERRARGUNJ - 6493,Wandur (RV),0,9,20,0,9,20,0,4,25,0,0,29,0,2,27,29,0,3,26,29,0,24,5,26,3,28,1,29,0

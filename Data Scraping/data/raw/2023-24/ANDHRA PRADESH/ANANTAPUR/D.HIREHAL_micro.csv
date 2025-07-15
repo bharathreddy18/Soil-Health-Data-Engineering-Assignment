@@ -1,0 +1,16 @@
+State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
+D.Hirehal,ANANTAPUR,D.HIREHAL - 4699,D.Hirehal,0,2,13,11,3,1,4,11,0,0,7,8,4,0,11,15,0,12,3,4,11,8,7,14,0,15,0,14,1
+Dodagatta,ANANTAPUR,D.HIREHAL - 4699,Dodagatta,0,1,11,11,1,0,7,5,0,0,0,12,2,0,10,12,0,10,2,4,8,4,8,12,0,12,0,12,0
+H.Hossahalli,ANANTAPUR,D.HIREHAL - 4699,H.Hossahalli,0,0,2,2,0,0,0,2,0,0,0,2,1,0,1,2,0,2,0,0,2,2,0,2,0,2,0,2,0
+H.Siddapuram,ANANTAPUR,D.HIREHAL - 4699,H.Siddapuram,0,0,1,1,0,0,1,0,0,0,1,0,0,0,1,1,0,1,0,1,0,0,1,1,0,1,0,1,0
+Hulikal,ANANTAPUR,D.HIREHAL - 4699,Hulikal,0,1,16,13,4,0,4,13,0,0,6,11,2,0,15,17,0,14,3,7,10,5,12,17,0,15,2,17,0
+Kadalur,ANANTAPUR,D.HIREHAL - 4699,Kadalur,0,0,18,18,0,0,7,11,0,0,0,18,9,0,9,18,0,18,0,12,6,8,10,18,0,16,2,18,0
+Kudulur,ANANTAPUR,D.HIREHAL - 4699,Kudulur,0,0,14,14,0,0,4,10,0,0,2,12,3,0,11,14,0,14,0,2,12,9,5,14,0,11,3,14,0
+Lingamanahalli,ANANTAPUR,D.HIREHAL - 4699,Lingamanahalli,0,0,1,1,0,0,1,0,0,0,0,1,0,0,1,1,0,1,0,1,0,0,1,1,0,0,1,1,0
+Madenahalli,ANANTAPUR,D.HIREHAL - 4699,Madenahalli,0,0,1,1,0,0,1,0,0,0,0,1,0,0,1,1,0,1,0,1,0,0,1,1,0,0,1,1,0
+Malapanagudi,ANANTAPUR,D.HIREHAL - 4699,Malapanagudi,0,0,21,21,0,0,11,10,0,0,0,21,3,0,18,19,2,21,0,11,10,1,20,21,0,16,5,21,0
+Muradi,ANANTAPUR,D.HIREHAL - 4699,Muradi,0,0,26,26,0,0,13,13,0,0,1,25,7,0,19,24,2,25,1,10,16,7,19,26,0,22,4,26,0
+Nagalapuram,ANANTAPUR,D.HIREHAL - 4699,Nagalapuram,0,0,1,1,0,0,0,1,0,0,1,0,0,0,1,1,0,1,0,0,1,0,1,1,0,1,0,1,0
+Obulapuram,ANANTAPUR,D.HIREHAL - 4699,Obulapuram,0,0,18,18,0,0,16,2,0,0,0,18,2,0,16,13,5,18,0,9,9,2,16,16,2,12,6,18,0
+Pulakurthi,ANANTAPUR,D.HIREHAL - 4699,Pulakurthi,0,0,4,4,0,0,3,1,0,0,0,4,0,0,4,4,0,4,0,2,2,2,2,4,0,2,2,4,0
+Somalapuram,ANANTAPUR,D.HIREHAL - 4699,Somalapuram,0,4,13,15,2,0,8,9,0,0,2,15,1,0,16,17,0,17,0,14,3,12,5,17,0,13,4,17,0

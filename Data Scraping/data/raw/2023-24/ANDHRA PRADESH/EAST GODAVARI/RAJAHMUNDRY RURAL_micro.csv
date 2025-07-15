@@ -1,0 +1,10 @@
+State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
+Bommuru (OG),EAST GODAVARI,RAJAHMUNDRY RURAL - 4903,Bommuru (OG),0,6,2,2,4,2,7,1,0,1,4,3,0,0,8,8,0,8,0,3,5,3,5,4,4,3,5,5,3
+Dowleswaram (CT),EAST GODAVARI,RAJAHMUNDRY RURAL - 4903,Dowleswaram (CT),0,8,3,1,8,2,5,6,0,2,9,0,0,0,11,11,0,11,0,10,1,11,0,11,0,8,3,11,0
+Hukumpeta (CT),EAST GODAVARI,RAJAHMUNDRY RURAL - 4903,Hukumpeta (CT),0,5,2,0,4,3,4,3,0,2,5,0,0,0,7,7,0,6,1,5,2,6,1,6,1,5,2,7,0
+Katheru (CT),EAST GODAVARI,RAJAHMUNDRY RURAL - 4903,Katheru (CT),0,12,8,4,16,0,18,3,0,5,13,3,0,0,21,21,0,20,1,20,1,13,8,20,1,12,9,20,1
+Kolamuru,EAST GODAVARI,RAJAHMUNDRY RURAL - 4903,Kolamuru,1,22,16,3,33,3,24,15,0,19,19,0,0,1,38,39,0,39,0,36,3,39,0,38,1,33,6,39,0
+Pidimgoyyi,EAST GODAVARI,RAJAHMUNDRY RURAL - 4903,Pidimgoyyi,0,6,3,3,5,1,7,2,0,4,5,0,0,0,9,9,0,8,1,6,3,9,0,9,0,7,2,9,0
+Rajavolu,EAST GODAVARI,RAJAHMUNDRY RURAL - 4903,Rajavolu,0,7,1,0,8,0,5,3,0,3,5,0,0,0,8,8,0,8,0,3,5,8,0,8,0,6,2,8,0
+Satelite City,EAST GODAVARI,RAJAHMUNDRY RURAL - 4903,Satelite City,1,7,4,5,7,0,10,0,2,3,9,0,0,0,12,11,0,11,1,9,3,11,1,12,0,5,7,12,0
+Torredu,EAST GODAVARI,RAJAHMUNDRY RURAL - 4903,Torredu,0,15,8,4,16,3,22,0,1,7,15,1,0,0,23,23,0,20,3,12,10,13,10,23,0,11,12,22,1

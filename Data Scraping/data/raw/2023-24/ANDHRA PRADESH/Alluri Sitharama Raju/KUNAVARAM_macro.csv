@@ -1,0 +1,30 @@
+State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
+Abicherla,Alluri Sitharama Raju,KUNAVARAM - 5076,Abicherla,0,2,0,2,0,0,0,0,2,0,1,1,0,1,1,2,0,2,0,2,0,2,0,2,0,2,0,2,0
+Ayyavarigudem,Alluri Sitharama Raju,KUNAVARAM - 5076,Ayyavarigudem,0,1,0,1,0,0,0,0,1,0,0,1,0,0,1,1,0,1,0,1,0,1,0,1,0,1,0,1,0
+Bhagavanpuram,Alluri Sitharama Raju,KUNAVARAM - 5076,Bhagavanpuram,0,1,0,1,0,0,0,0,1,0,1,0,0,0,1,1,0,1,0,1,0,1,0,1,0,1,0,1,0
+Chinnapolipaka,Alluri Sitharama Raju,KUNAVARAM - 5076,Chinnapolipaka,0,2,0,2,0,0,0,0,2,0,1,1,0,0,2,2,0,2,0,2,0,2,0,2,0,2,0,2,0
+Dugutta,Alluri Sitharama Raju,KUNAVARAM - 5076,Dugutta,2,1,0,3,0,0,1,0,2,0,0,3,0,0,3,3,0,3,0,3,0,2,1,3,0,2,1,3,0
+Gunduvarigudem,Alluri Sitharama Raju,KUNAVARAM - 5076,Gunduvarigudem,0,1,0,1,0,0,0,0,1,0,0,1,0,0,1,1,0,1,0,1,0,1,0,1,0,1,0,1,0
+Harvegudem,Alluri Sitharama Raju,KUNAVARAM - 5076,Harvegudem,1,0,0,1,0,0,0,0,1,0,1,0,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0
+Jaggavaram,Alluri Sitharama Raju,KUNAVARAM - 5076,Jaggavaram,4,4,0,8,0,0,0,1,7,0,3,5,0,0,8,8,0,8,0,8,0,7,1,8,0,7,1,8,0
+Kachavaram,Alluri Sitharama Raju,KUNAVARAM - 5076,Kachavaram,1,0,0,1,0,0,0,0,1,0,0,1,0,0,1,1,0,1,0,1,0,1,0,1,0,1,0,1,0
+Karakagudem,Alluri Sitharama Raju,KUNAVARAM - 5076,Karakagudem,1,0,0,1,0,0,0,0,1,0,0,1,0,0,1,1,0,1,0,1,0,1,0,1,0,1,0,1,0
+Koderu,Alluri Sitharama Raju,KUNAVARAM - 5076,Koderu,1,0,0,1,0,0,0,0,1,0,1,0,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0
+Kondaigudem,Alluri Sitharama Raju,KUNAVARAM - 5076,Kondaigudem,1,1,0,2,0,0,0,0,2,0,1,1,0,0,2,2,0,2,0,2,0,2,0,2,0,2,0,2,0
+Kondarajupeta,Alluri Sitharama Raju,KUNAVARAM - 5076,Kondarajupeta,0,2,0,2,0,0,0,0,2,0,0,2,0,0,2,2,0,2,0,2,0,1,1,2,0,2,0,2,0
+Kudalipadu,Alluri Sitharama Raju,KUNAVARAM - 5076,Kudalipadu,1,0,0,1,0,0,0,0,1,0,0,1,0,0,1,1,0,1,0,1,0,0,1,1,0,1,0,1,0
+Kuturu,Alluri Sitharama Raju,KUNAVARAM - 5076,Kuturu,3,1,0,4,0,0,0,0,4,0,1,3,0,0,4,4,0,4,0,4,0,4,0,4,0,4,0,4,0
+Laxmipuram,Alluri Sitharama Raju,KUNAVARAM - 5076,Laxmipuram,2,0,0,1,0,1,1,1,0,0,1,1,0,0,2,2,0,2,0,2,0,0,2,2,0,1,1,2,0
+Lellavai,Alluri Sitharama Raju,KUNAVARAM - 5076,Lellavai,0,1,0,1,0,0,0,0,1,0,1,0,0,0,1,1,0,1,0,1,0,1,0,1,0,1,0,1,0
+Narasingapeta,Alluri Sitharama Raju,KUNAVARAM - 5076,Narasingapeta,4,2,0,6,0,0,3,1,2,0,2,4,0,0,6,6,0,6,0,6,0,5,1,6,0,2,4,6,0
+Paidigudem,Alluri Sitharama Raju,KUNAVARAM - 5076,Paidigudem,0,3,0,1,1,1,0,0,3,0,1,2,0,0,3,3,0,3,0,3,0,3,0,3,0,3,0,3,0
+Palluru,Alluri Sitharama Raju,KUNAVARAM - 5076,Palluru,0,1,0,1,0,0,0,0,1,0,0,1,0,0,1,1,0,1,0,1,0,0,1,1,0,1,0,1,0
+Pedda Polipaka,Alluri Sitharama Raju,KUNAVARAM - 5076,Pedda Polipaka,1,1,0,2,0,0,1,0,1,0,1,1,0,0,2,2,0,2,0,2,0,1,1,2,0,1,1,2,0
+Peddarukur,Alluri Sitharama Raju,KUNAVARAM - 5076,Peddarukur,2,3,0,4,0,1,1,0,4,0,5,0,0,0,5,5,0,4,1,5,0,4,1,5,0,3,2,5,0
+Pochavaram,Alluri Sitharama Raju,KUNAVARAM - 5076,Pochavaram,4,2,0,5,0,1,1,3,2,0,2,4,0,0,6,6,0,6,0,6,0,4,2,6,0,3,3,6,0
+Potlavarigudem,Alluri Sitharama Raju,KUNAVARAM - 5076,Potlavarigudem,7,0,0,2,0,5,4,1,2,0,7,0,0,1,6,7,0,7,0,7,0,3,4,7,0,4,3,7,0
+Regulapadu,Alluri Sitharama Raju,KUNAVARAM - 5076,Regulapadu,1,4,0,5,0,0,0,0,5,0,5,0,0,1,4,5,0,5,0,5,0,4,1,5,0,5,0,5,0
+Repaka,Alluri Sitharama Raju,KUNAVARAM - 5076,Repaka,0,3,0,2,1,0,0,0,3,0,3,0,0,0,3,3,0,3,0,3,0,3,0,3,0,3,0,3,0
+S.Kothagudem,Alluri Sitharama Raju,KUNAVARAM - 5076,S.Kothagudem,1,2,0,3,0,0,0,0,3,0,0,3,0,0,3,3,0,3,0,3,0,2,1,3,0,3,0,3,0
+Turakalagudem,Alluri Sitharama Raju,KUNAVARAM - 5076,Turakalagudem,2,0,0,2,0,0,0,2,0,0,0,2,0,0,2,2,0,1,1,2,0,1,1,2,0,1,1,2,0
+Walfordpeta,Alluri Sitharama Raju,KUNAVARAM - 5076,Walfordpeta,0,2,0,2,0,0,0,0,2,0,2,0,0,0,2,2,0,2,0,2,0,2,0,2,0,2,0,2,0

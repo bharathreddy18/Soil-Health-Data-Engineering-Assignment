@@ -1,0 +1,14 @@
+State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
+Amaravaram,Eluru,KUKKUNUR - 5075,Amaravaram,0,2,9,3,3,5,3,5,3,1,1,9,0,0,11,11,0,10,1,6,5,8,3,11,0,9,2,10,1
+Dacharam,Eluru,KUKKUNUR - 5075,Dacharam,0,0,10,6,3,1,3,3,4,2,2,6,0,1,9,10,0,8,2,8,2,5,5,10,0,10,0,10,0
+Damaracharla,Eluru,KUKKUNUR - 5075,Damaracharla,0,0,2,2,0,0,2,0,0,1,0,1,0,0,2,2,0,1,1,2,0,2,0,2,0,2,0,2,0
+Ganapavaram,Eluru,KUKKUNUR - 5075,Ganapavaram,0,0,2,1,1,0,0,1,1,0,1,1,0,0,2,2,0,2,0,1,1,2,0,2,0,2,0,2,0
+Gommugudem,Eluru,KUKKUNUR - 5075,Gommugudem,0,3,6,9,0,0,5,4,0,0,1,8,0,0,9,9,0,7,2,7,2,5,4,9,0,9,0,9,0
+Kukunoor,Eluru,KUKKUNUR - 5075,Kukunoor,0,2,19,16,3,2,11,7,3,2,6,13,0,4,17,21,0,18,3,17,4,16,5,21,0,19,2,21,0
+Madhavaram,Eluru,KUKKUNUR - 5075,Madhavaram,0,2,10,10,2,0,10,1,1,1,6,5,0,0,12,12,0,6,6,8,4,10,2,12,0,11,1,11,1
+Maredubaka,Eluru,KUKKUNUR - 5075,Maredubaka,0,0,11,9,1,1,6,4,1,0,2,9,0,0,11,11,0,7,4,9,2,10,1,11,0,10,1,10,1
+Ravigudem [Big],Eluru,KUKKUNUR - 5075,Ravigudem [Big],0,0,9,7,2,0,1,0,8,0,2,7,0,1,8,9,0,9,0,6,3,4,5,9,0,9,0,8,1
+Sridhara,Eluru,KUKKUNUR - 5075,Sridhara,0,1,9,9,0,1,0,2,8,0,1,9,0,0,10,10,0,10,0,4,6,7,3,10,0,7,3,9,1
+Thondipaka,Eluru,KUKKUNUR - 5075,Thondipaka,0,0,10,2,5,3,0,6,4,1,4,5,0,0,10,10,0,7,3,9,1,4,6,10,0,8,2,10,0
+Upperu,Eluru,KUKKUNUR - 5075,Upperu,0,3,6,7,2,0,4,3,2,0,4,5,0,0,9,9,0,5,4,7,2,6,3,9,0,8,1,9,0
+Vinjaram,Eluru,KUKKUNUR - 5075,Vinjaram,0,0,11,7,3,1,8,1,2,1,4,6,0,0,11,11,0,4,7,7,4,9,2,11,0,8,3,11,0

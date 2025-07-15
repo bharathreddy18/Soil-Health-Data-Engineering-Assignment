@@ -1,0 +1,13 @@
+State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
+Ankamvaripalle,CHITTOOR,PALAMANER - 4778,Ankamvaripalle,0,1,0,0,1,0,0,0,1,1,0,0,0,0,1,1,0,0,1,0,1,1,0,1,0,1,0,1,0
+Ayyamreddi Palle,CHITTOOR,PALAMANER - 4778,Ayyamreddi Palle,0,0,1,0,1,0,0,0,1,0,0,1,0,0,1,1,0,1,0,0,1,1,0,1,0,1,0,1,0
+Baippagari Palle,CHITTOOR,PALAMANER - 4778,Baippagari Palle,0,8,3,8,1,2,2,7,2,0,7,4,0,0,11,11,0,3,8,10,1,10,1,11,0,10,1,11,0
+Gundlapalle,CHITTOOR,PALAMANER - 4778,Gundlapalle,0,16,12,5,17,6,1,27,0,0,17,11,0,0,28,28,0,13,15,22,6,23,5,28,0,27,1,28,0
+Jagamarla,CHITTOOR,PALAMANER - 4778,Jagamarla,0,6,16,0,8,14,12,9,1,0,6,16,0,0,21,21,0,4,18,20,2,20,2,20,2,19,3,22,0
+Karidimadugu,CHITTOOR,PALAMANER - 4778,Karidimadugu,0,2,16,5,10,3,0,11,7,0,3,15,0,0,18,18,0,2,16,18,0,16,2,18,0,17,1,17,1
+Kolamasana Palle,CHITTOOR,PALAMANER - 4778,Kolamasana Palle,0,4,17,6,5,10,2,19,0,0,5,16,0,0,21,21,0,1,20,20,1,16,5,20,1,18,3,21,0
+Kurmoi,CHITTOOR,PALAMANER - 4778,Kurmoi,0,11,29,17,8,15,5,26,9,0,12,28,0,0,40,40,0,12,28,31,9,31,9,37,3,36,4,40,0
+Moram (Part),CHITTOOR,PALAMANER - 4778,Moram (Part),0,11,10,15,4,2,6,11,4,1,10,10,0,0,21,21,0,4,17,16,5,18,3,20,0,18,3,21,0
+PALAMANERU,CHITTOOR,PALAMANER - 4778,PALAMANERU,0,12,31,31,11,1,6,17,20,1,11,31,0,0,43,42,1,22,21,27,16,34,9,40,3,42,1,43,0
+Pengara Kunta,CHITTOOR,PALAMANER - 4778,Pengara Kunta,0,29,23,21,19,12,9,43,0,5,27,20,0,0,52,51,1,21,31,47,5,39,13,51,1,43,9,52,0
+Samudrapalle,CHITTOOR,PALAMANER - 4778,Samudrapalle,0,12,16,13,13,2,13,13,2,0,14,14,0,0,28,28,0,12,16,17,11,16,12,25,3,27,1,28,0

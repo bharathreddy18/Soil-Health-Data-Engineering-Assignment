@@ -1,0 +1,37 @@
+State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
+Anukuru,Anakapalli,MADUGULA - 5602,Anukuru,1,0,0,0,1,0,1,0,0,1,0,0,0,0,1,1,0,1,0,1,0,1,0,1,0,1,0,1,0
+Avuruvada,Anakapalli,MADUGULA - 5602,Avuruvada,0,0,1,0,1,0,1,0,0,0,0,1,0,0,1,0,1,1,0,1,0,1,0,1,0,1,0,1,0
+China Sarada,Anakapalli,MADUGULA - 5602,China Sarada,0,0,1,1,0,0,1,0,0,1,0,0,0,0,1,1,0,1,0,1,0,1,0,1,0,1,0,1,0
+Chintaluru,Anakapalli,MADUGULA - 5602,Chintaluru,6,2,15,12,3,8,17,6,0,8,2,13,0,0,23,23,0,22,1,23,0,23,0,23,0,22,1,23,0
+Gadirai,Anakapalli,MADUGULA - 5602,Gadirai,0,0,1,1,0,0,1,0,0,0,0,1,0,0,1,1,0,0,1,1,0,1,0,1,0,1,0,1,0
+Gotivada Agraharam,Anakapalli,MADUGULA - 5602,Gotivada Agraharam,5,2,5,6,5,1,9,2,1,4,2,6,2,0,10,8,4,12,0,12,0,11,1,12,0,10,2,12,0
+Jalampalle,Anakapalli,MADUGULA - 5602,Jalampalle,1,0,4,3,1,1,4,0,1,1,0,4,0,0,5,5,0,3,2,5,0,5,0,5,0,4,1,5,0
+Jammadevipeta,Anakapalli,MADUGULA - 5602,Jammadevipeta,6,6,13,17,4,5,9,4,13,6,6,14,0,0,26,21,5,25,1,25,1,26,0,25,1,21,5,26,0
+Kaspa Jagannadhapuram,Anakapalli,MADUGULA - 5602,Kaspa Jagannadhapuram,5,4,11,17,2,1,8,7,5,5,2,13,0,0,20,16,4,20,0,19,1,10,10,19,1,17,3,20,0
+Kinthali,Anakapalli,MADUGULA - 5602,Kinthali,2,0,0,0,1,1,2,0,0,2,0,0,0,0,2,2,0,2,0,1,1,2,0,2,0,2,0,2,0
+Kinthali Vallapuram,Anakapalli,MADUGULA - 5602,Kinthali Vallapuram,12,0,22,18,8,8,20,6,8,12,0,22,0,0,34,19,15,32,2,32,2,32,2,33,1,30,4,34,0
+Lakshmipuram,Anakapalli,MADUGULA - 5602,Lakshmipuram,0,0,5,2,2,1,2,0,3,0,0,5,0,0,5,2,3,5,0,5,0,4,1,5,0,5,0,5,0
+Lova Kothapalle,Anakapalli,MADUGULA - 5602,Lova Kothapalle,2,1,0,2,1,0,2,1,0,0,1,2,0,0,3,1,2,3,0,2,1,3,0,3,0,3,0,3,0
+Lova Ponnavolu,Anakapalli,MADUGULA - 5602,Lova Ponnavolu,1,0,1,1,1,0,2,0,0,0,1,1,0,0,2,2,0,2,0,2,0,2,0,2,0,2,0,2,0
+Lovagavara Varam,Anakapalli,MADUGULA - 5602,Lovagavara Varam,1,0,1,2,0,0,1,0,1,1,0,1,0,0,2,2,0,2,0,1,1,1,1,2,0,2,0,2,0
+M.K.Vallapuram,Anakapalli,MADUGULA - 5602,M.K.Vallapuram,5,4,6,9,6,0,12,2,1,5,4,6,0,1,14,15,0,15,0,14,1,10,5,15,0,14,1,15,0
+Madugula,Anakapalli,MADUGULA - 5602,Madugula,19,3,60,50,20,13,50,24,9,20,3,60,1,0,82,40,43,82,1,71,12,71,12,82,1,65,18,82,1
+Madugula Koduru,Anakapalli,MADUGULA - 5602,Madugula Koduru,22,1,25,21,15,12,36,7,5,22,1,25,0,0,48,27,21,48,0,41,7,45,3,46,2,39,9,48,0
+Madugulakotapadu,Anakapalli,MADUGULA - 5602,Madugulakotapadu,8,2,8,12,2,4,12,5,1,8,2,8,0,0,18,18,0,18,0,17,1,11,7,18,0,16,2,18,0
+Moksha Krishnapuram,Anakapalli,MADUGULA - 5602,Moksha Krishnapuram,1,1,0,0,2,0,2,0,0,1,1,0,0,0,2,1,1,2,0,2,0,2,0,2,0,2,0,2,0
+Mukundapuram,Anakapalli,MADUGULA - 5602,Mukundapuram,0,1,2,3,0,0,3,0,0,0,1,2,0,0,3,3,0,3,0,3,0,2,1,3,0,3,0,3,0
+P.Sivaram Puram,Anakapalli,MADUGULA - 5602,P.Sivaram Puram,1,0,3,3,1,0,2,0,2,0,0,4,0,0,4,3,1,4,0,4,0,4,0,4,0,4,0,4,0
+Peda Sarada,Anakapalli,MADUGULA - 5602,Peda Sarada,1,0,0,1,0,0,0,0,1,1,0,0,0,0,1,1,0,1,0,1,0,1,0,1,0,1,0,1,0
+Pongalipaka,Anakapalli,MADUGULA - 5602,Pongalipaka,5,0,4,7,2,0,5,2,2,2,0,7,1,0,8,6,3,9,0,9,0,9,0,9,0,9,0,9,0
+Pothanapudi Araharam,Anakapalli,MADUGULA - 5602,Pothanapudi Araharam,1,2,30,24,2,7,24,5,4,3,2,28,0,0,33,24,9,33,0,32,1,29,4,33,0,27,6,33,0
+Sagaram,Anakapalli,MADUGULA - 5602,Sagaram,3,4,30,26,7,5,23,8,7,8,4,26,1,0,37,28,10,38,0,34,4,20,18,37,1,34,4,38,0
+Sanghyam,Anakapalli,MADUGULA - 5602,Sanghyam,0,0,3,3,0,0,2,1,0,1,0,2,0,0,3,2,1,3,0,2,1,2,1,3,0,3,0,3,0
+Sankaram,Anakapalli,MADUGULA - 5602,Sankaram,1,1,4,2,2,2,5,1,0,1,2,3,0,0,6,6,0,6,0,6,0,6,0,6,0,6,0,6,0
+Satyavaram,Anakapalli,MADUGULA - 5602,Satyavaram,7,3,35,40,5,2,35,7,5,8,2,37,0,1,46,10,37,47,0,41,6,35,12,47,0,43,4,47,0
+Tatiparthi,Anakapalli,MADUGULA - 5602,Tatiparthi,0,0,1,0,1,0,1,0,0,0,0,1,0,0,1,0,1,1,0,1,0,1,0,1,0,1,0,1,0
+Tiruvada,Anakapalli,MADUGULA - 5602,Tiruvada,2,0,4,3,1,2,1,3,2,1,1,4,1,0,5,4,2,6,0,5,1,6,0,6,0,6,0,6,0
+Veeranarayanam,Anakapalli,MADUGULA - 5602,Veeranarayanam,2,3,15,7,10,3,13,3,4,1,3,16,0,0,20,19,1,17,3,17,3,19,1,20,0,19,1,20,0
+Veeravilli,Anakapalli,MADUGULA - 5602,Veeravilli,0,1,7,5,1,2,5,2,1,1,1,6,0,0,8,6,2,7,1,8,0,7,1,8,0,7,1,8,0
+Vommali,Anakapalli,MADUGULA - 5602,Vommali,8,8,16,12,12,8,17,9,6,8,9,15,0,0,32,24,8,30,2,28,4,31,1,32,0,26,6,32,0
+Vommali Jagannadhapuram,Anakapalli,MADUGULA - 5602,Vommali Jagannadhapuram,0,0,2,1,1,0,1,0,1,0,0,2,0,0,2,2,0,2,0,2,0,2,0,1,1,2,0,2,0
+Yerukuvada,Anakapalli,MADUGULA - 5602,Yerukuvada,0,2,5,5,1,1,2,3,2,0,2,5,0,0,7,0,7,7,0,5,2,6,1,7,0,6,1,7,0

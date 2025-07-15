@@ -1,0 +1,17 @@
+State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
+Aggichenupalle,CHITTOOR,VEDURUKUPPAM - 4809,Aggichenupalle,0,0,1,0,0,1,0,1,0,0,0,1,0,0,1,1,0,1,0,1,0,1,0,1,0,1,0,1,0
+Allamadugu,CHITTOOR,VEDURUKUPPAM - 4809,Allamadugu,0,3,19,20,2,0,17,4,1,1,5,16,0,0,22,22,0,18,4,12,10,16,6,22,0,20,2,13,9
+ALLAMADUGU HW,CHITTOOR,VEDURUKUPPAM - 4809,ALLAMADUGU HW,0,13,46,26,17,16,28,25,6,2,11,46,1,1,56,59,0,46,13,32,27,40,19,57,2,56,3,46,13
+Bommaiahpalle,CHITTOOR,VEDURUKUPPAM - 4809,Bommaiahpalle,0,5,21,22,2,2,15,10,1,0,7,19,0,0,26,26,0,22,4,19,7,21,5,25,1,24,2,26,0
+Brahmanapalle,CHITTOOR,VEDURUKUPPAM - 4809,Brahmanapalle,0,5,18,22,1,0,14,9,0,0,7,16,0,0,23,23,0,17,6,12,11,16,7,23,0,21,2,15,8
+Chenchugudi,CHITTOOR,VEDURUKUPPAM - 4809,Chenchugudi,0,1,22,23,0,0,7,14,2,0,3,20,0,0,23,23,0,19,4,15,8,17,6,23,0,23,0,13,10
+Devalampeta,CHITTOOR,VEDURUKUPPAM - 4809,Devalampeta,0,0,1,0,0,1,0,1,0,0,0,1,0,0,1,1,0,1,0,1,0,1,0,1,0,1,0,1,0
+Jakkidona,CHITTOOR,VEDURUKUPPAM - 4809,Jakkidona,0,2,23,19,5,1,14,10,1,0,2,23,2,0,23,25,0,22,3,15,10,24,1,25,0,23,2,17,8
+Komaragunta,CHITTOOR,VEDURUKUPPAM - 4809,Komaragunta,1,3,21,22,2,1,9,14,2,0,4,21,1,0,24,25,0,21,4,20,5,22,3,25,0,23,2,21,4
+Kurivikuppam,CHITTOOR,VEDURUKUPPAM - 4809,Kurivikuppam,0,0,1,1,0,0,0,1,0,0,0,1,0,0,1,1,0,1,0,1,0,0,1,1,0,1,0,1,0
+Mambedu,CHITTOOR,VEDURUKUPPAM - 4809,Mambedu,0,1,16,16,1,0,4,12,1,0,2,15,0,0,17,17,0,13,4,14,3,16,1,17,0,15,2,13,4
+Pachikapalem,CHITTOOR,VEDURUKUPPAM - 4809,Pachikapalem,0,6,19,19,6,0,18,7,0,1,7,17,0,0,25,25,0,20,5,10,15,21,4,25,0,23,2,21,4
+Pathagunta,CHITTOOR,VEDURUKUPPAM - 4809,Pathagunta,0,0,25,24,1,0,10,12,3,0,3,22,0,0,25,25,0,20,5,15,10,21,4,24,1,24,1,21,4
+Perumallapalle,CHITTOOR,VEDURUKUPPAM - 4809,Perumallapalle,0,2,22,22,1,1,7,15,2,0,3,21,0,0,24,24,0,19,5,16,8,19,5,23,1,22,2,16,8
+Vedurukuppam,CHITTOOR,VEDURUKUPPAM - 4809,Vedurukuppam,0,1,25,22,4,0,5,15,6,0,3,23,0,0,26,26,0,23,3,19,7,20,6,26,0,25,1,18,8
+Veperi,CHITTOOR,VEDURUKUPPAM - 4809,Veperi,0,0,25,23,1,1,10,14,1,0,1,24,0,0,25,25,0,19,6,19,6,17,8,24,1,23,2,19,6

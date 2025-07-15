@@ -1,0 +1,13 @@
+State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
+Bandarupalle,GUNTUR,TADIKONDA - 4972,Bandarupalle,0,0,2,2,0,0,2,0,0,0,2,0,0,0,2,2,0,2,0,2,0,0,2,2,0,2,0,1,1
+Bejatpuram,GUNTUR,TADIKONDA - 4972,Bejatpuram,0,0,2,1,0,1,1,1,0,0,1,1,1,0,1,2,0,1,1,2,0,2,0,2,0,2,0,2,0
+Damarapalle,GUNTUR,TADIKONDA - 4972,Damarapalle,0,1,2,1,1,1,3,0,0,1,1,1,2,0,1,2,1,2,1,3,0,3,0,3,0,3,0,3,0
+Kantheru,GUNTUR,TADIKONDA - 4972,Kantheru,0,0,12,3,7,2,12,0,0,0,0,12,0,0,12,12,0,10,2,12,0,12,0,12,0,11,1,12,0
+Lachannagudipudi,GUNTUR,TADIKONDA - 4972,Lachannagudipudi,0,0,1,1,0,0,1,0,0,0,0,1,1,0,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0
+Lam,GUNTUR,TADIKONDA - 4972,Lam,0,1,6,2,1,4,6,1,0,1,1,5,3,0,4,4,3,5,2,5,2,7,0,7,0,7,0,7,0
+Mothadaka,GUNTUR,TADIKONDA - 4972,Mothadaka,0,1,4,4,0,1,5,0,0,1,1,3,0,0,5,5,0,3,2,3,2,5,0,5,0,5,0,4,1
+Nidumukkala,GUNTUR,TADIKONDA - 4972,Nidumukkala,0,3,5,7,1,0,8,0,0,8,0,0,1,0,7,2,6,7,1,8,0,8,0,8,0,8,0,8,0
+Pamulapadu,GUNTUR,TADIKONDA - 4972,Pamulapadu,0,0,4,0,1,3,3,1,0,0,0,4,0,0,4,4,0,1,3,1,3,3,1,4,0,4,0,4,0
+Ponnekallu,GUNTUR,TADIKONDA - 4972,Ponnekallu,0,2,5,7,0,0,7,0,0,6,0,1,0,0,7,7,0,7,0,4,3,5,2,7,0,7,0,7,0
+Ravela,GUNTUR,TADIKONDA - 4972,Ravela,0,0,10,10,0,0,10,0,0,2,4,4,0,0,10,7,3,10,0,10,0,10,0,10,0,10,0,10,0
+Tadikonda,GUNTUR,TADIKONDA - 4972,Tadikonda,0,4,15,11,4,4,19,0,0,5,1,13,0,0,19,16,3,15,4,16,3,18,1,19,0,18,1,18,1

@@ -1,0 +1,14 @@
+State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
+Araveedu,Annamayya,GALIVEEDU - 4826,Araveedu,0,0,22,7,7,8,3,19,0,0,3,19,6,0,16,21,1,16,6,7,15,2,20,22,0,8,14,13,9
+Eguvagottiveedu,Annamayya,GALIVEEDU - 4826,Eguvagottiveedu,0,0,26,13,8,5,5,21,0,0,10,16,20,0,6,25,1,20,6,19,7,7,19,26,0,9,17,10,16
+Galiveedu,Annamayya,GALIVEEDU - 4826,Galiveedu,0,7,100,33,40,34,27,78,2,0,32,75,67,0,40,107,0,78,29,54,53,29,78,107,0,50,57,91,16
+Garugupalle,Annamayya,GALIVEEDU - 4826,Garugupalle,0,0,14,5,6,3,6,8,0,0,4,10,4,0,10,14,0,10,3,10,4,2,12,14,0,3,11,9,5
+Gopanapalle,Annamayya,GALIVEEDU - 4826,Gopanapalle,1,2,27,9,11,10,9,21,0,0,12,18,23,0,7,30,0,19,11,15,15,1,29,30,0,17,13,10,20
+Gundlacheruvu,Annamayya,GALIVEEDU - 4826,Gundlacheruvu,0,0,27,12,6,9,8,19,0,0,5,22,11,0,16,26,1,24,3,4,23,2,25,26,1,14,13,18,9
+Korlakunta,Annamayya,GALIVEEDU - 4826,Korlakunta,0,3,26,8,13,8,11,18,0,0,9,19,11,0,17,27,1,20,9,9,20,3,26,27,2,10,19,21,8
+Nooliveedu,Annamayya,GALIVEEDU - 4826,Nooliveedu,1,7,62,23,25,22,15,54,1,0,18,52,11,0,59,69,1,46,24,38,32,3,67,70,0,45,25,37,33
+Pandikunta,Annamayya,GALIVEEDU - 4826,Pandikunta,0,1,23,7,10,7,6,18,0,0,4,20,15,0,9,24,0,12,12,14,10,2,22,24,0,11,13,17,7
+Pulikunta,Annamayya,GALIVEEDU - 4826,Pulikunta,0,2,31,18,8,7,7,25,1,0,5,28,15,0,18,32,1,25,8,12,21,2,31,33,0,22,11,20,13
+Pyarampalle,Annamayya,GALIVEEDU - 4826,Pyarampalle,0,0,5,2,1,2,3,2,0,0,1,4,0,0,5,5,0,4,1,3,2,3,2,5,0,1,4,5,0
+Thumukunta,Annamayya,GALIVEEDU - 4826,Thumukunta,0,4,26,19,6,5,7,23,0,0,7,23,0,0,30,30,0,25,5,18,12,14,16,30,0,23,7,20,10
+Veligallu,Annamayya,GALIVEEDU - 4826,Veligallu,0,10,85,66,20,9,33,60,2,1,29,65,6,0,89,95,0,42,53,49,46,56,39,89,5,63,32,82,13

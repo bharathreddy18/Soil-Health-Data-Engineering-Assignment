@@ -1,0 +1,15 @@
+State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
+Ballikurava,Bapatla,BALLIKURAVA - 5456,Ballikurava,0,0,30,0,0,30,24,6,0,0,0,30,3,0,27,29,1,16,14,4,26,4,26,24,6,20,10,30,0
+Chennupalle,Bapatla,BALLIKURAVA - 5456,Chennupalle,0,0,16,0,0,16,16,0,0,0,0,16,1,0,15,16,0,5,11,1,15,8,8,14,2,13,3,16,0
+Gorre Padu,Bapatla,BALLIKURAVA - 5456,Gorre Padu,0,0,30,0,1,29,18,12,0,0,0,30,0,0,30,30,0,21,9,0,30,12,18,29,1,30,0,3,27
+Guntupalle,Bapatla,BALLIKURAVA - 5456,Guntupalle,0,0,29,0,1,28,19,9,1,0,0,29,1,0,28,28,1,23,6,19,10,10,19,22,7,23,6,29,0
+Konidena,Bapatla,BALLIKURAVA - 5456,Konidena,0,0,32,0,0,32,29,3,0,0,0,32,0,0,32,29,3,14,18,1,31,8,24,24,8,26,6,32,0
+Koppera Padu,Bapatla,BALLIKURAVA - 5456,Koppera Padu,0,0,16,0,0,16,13,3,0,0,0,16,0,0,16,15,1,13,3,15,1,2,14,13,3,16,0,16,0
+Koppera Palem,Bapatla,BALLIKURAVA - 5456,Koppera Palem,0,0,14,0,2,12,13,1,0,0,0,14,0,0,14,14,0,10,4,1,13,3,11,14,0,14,0,14,0
+Kukatla Palle,Bapatla,BALLIKURAVA - 5456,Kukatla Palle,0,0,15,0,1,14,13,2,0,0,0,15,1,0,14,15,0,9,6,1,14,7,8,15,0,15,0,2,13
+Mukteswaram,Bapatla,BALLIKURAVA - 5456,Mukteswaram,0,0,14,0,1,13,4,9,1,0,0,14,0,0,14,14,0,11,3,1,13,1,13,9,5,11,3,13,1
+Sankaralingam Gudipadu,Bapatla,BALLIKURAVA - 5456,Sankaralingam Gudipadu,0,0,15,0,0,15,10,5,0,0,0,15,0,0,15,13,2,7,8,5,10,3,12,12,3,11,4,5,10
+Uppumaguluru,Bapatla,BALLIKURAVA - 5456,Uppumaguluru,0,1,29,0,1,29,30,0,0,0,0,30,2,0,28,28,2,18,12,3,25,8,20,27,3,26,4,28,2
+Vaidana,Bapatla,BALLIKURAVA - 5456,Vaidana,0,0,15,0,0,15,15,0,0,0,0,15,0,0,15,15,0,15,0,15,0,1,14,9,6,13,2,14,1
+Valla Palle,Bapatla,BALLIKURAVA - 5456,Valla Palle,0,0,29,0,0,29,27,2,0,0,0,29,1,0,28,29,0,22,7,29,0,6,23,20,9,20,9,29,0
+Vemavaram,Bapatla,BALLIKURAVA - 5456,Vemavaram,0,5,50,0,8,46,46,9,0,1,12,42,3,0,52,50,5,33,22,0,54,15,38,34,14,52,3,54,1

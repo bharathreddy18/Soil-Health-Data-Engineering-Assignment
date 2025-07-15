@@ -1,0 +1,20 @@
+State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
+A.Gokulapadu,KURNOOL,KALLUR - 5170,A.Gokulapadu,8,720,528,322,796,139,914,320,24,30,350,872,141,1,1111,1157,96,1247,9,210,1049,597,659,1198,54,1088,169,876,383
+Bastipadu,KURNOOL,KALLUR - 5170,Bastipadu,0,1,0,0,1,0,1,0,0,0,0,1,0,0,1,1,0,1,0,1,0,1,0,1,0,0,1,1,0
+Bollavaram,KURNOOL,KALLUR - 5170,Bollavaram,0,12,11,2,19,2,20,3,0,0,2,21,6,0,17,22,1,23,0,17,6,22,1,23,0,20,3,19,4
+Chetla Mallapuram,KURNOOL,KALLUR - 5170,Chetla Mallapuram,0,1,0,0,1,0,1,0,0,0,1,0,0,0,1,1,0,1,0,0,1,0,1,1,0,1,0,1,0
+Chinna Tekur,KURNOOL,KALLUR - 5170,Chinna Tekur,0,13,9,5,16,1,21,1,0,1,9,12,0,0,22,22,0,22,0,17,5,17,5,20,2,19,3,16,6
+K.Markapuram,KURNOOL,KALLUR - 5170,K.Markapuram,0,19,3,3,17,2,21,1,0,0,1,21,12,0,10,21,1,22,0,5,17,9,13,22,0,19,3,18,4
+KALLUR,KURNOOL,KALLUR - 5170,KALLUR,0,15,6,1,19,1,19,2,0,0,4,17,5,0,16,20,1,21,0,14,7,16,5,20,1,19,2,15,6
+Konganapadu,KURNOOL,KALLUR - 5170,Konganapadu,0,12,10,2,18,2,21,1,0,0,0,22,8,0,14,22,0,22,0,13,9,19,3,22,0,20,2,21,1
+Laxmipuram,KURNOOL,KALLUR - 5170,Laxmipuram,0,42,39,19,52,10,75,6,0,0,5,76,13,0,68,79,2,80,1,44,37,71,10,77,4,72,9,76,5
+Nayakallu,KURNOOL,KALLUR - 5170,Nayakallu,0,21,0,3,16,2,20,1,0,0,2,19,8,0,13,21,0,21,0,12,9,15,6,21,0,17,4,20,1
+Pandipadu (OG),KURNOOL,KALLUR - 5170,Pandipadu (OG),0,18,4,0,19,3,20,2,0,0,1,21,2,1,19,22,0,22,0,19,3,21,1,21,1,19,3,21,1
+Parla,KURNOOL,KALLUR - 5170,Parla,0,41,1,7,30,5,39,3,0,0,3,39,4,0,38,37,5,42,0,29,13,34,8,42,0,37,5,34,8
+Pedda Tekur,KURNOOL,KALLUR - 5170,Pedda Tekur,0,19,3,3,16,3,20,2,0,0,1,20,9,0,13,22,0,22,0,13,9,17,5,22,0,19,3,19,3
+Peddapadu (OG),KURNOOL,KALLUR - 5170,Peddapadu (OG),0,21,2,1,19,3,23,0,0,0,7,16,7,0,16,22,1,23,0,13,10,15,8,23,0,19,4,18,5
+Pusulur,KURNOOL,KALLUR - 5170,Pusulur,0,20,2,3,17,2,21,1,0,0,2,20,6,0,16,15,7,22,0,18,4,16,6,21,1,18,4,15,7
+Salkapuram,KURNOOL,KALLUR - 5170,Salkapuram,0,18,6,4,18,2,23,1,0,0,5,19,5,0,19,21,3,24,0,16,8,16,8,24,0,22,2,20,4
+Thadakanapalle,KURNOOL,KALLUR - 5170,Thadakanapalle,0,22,0,2,18,2,21,1,0,0,0,22,0,0,22,22,0,22,0,12,10,14,8,22,0,19,3,22,0
+Ulindakonda,KURNOOL,KALLUR - 5170,Ulindakonda,0,36,5,6,29,6,39,2,0,0,0,41,1,0,40,39,2,41,0,28,13,34,7,41,0,37,4,37,4
+Yaparlapadu,KURNOOL,KALLUR - 5170,Yaparlapadu,0,3,0,0,3,0,3,0,0,0,0,3,0,0,3,3,0,3,0,0,3,1,2,3,0,3,0,3,0

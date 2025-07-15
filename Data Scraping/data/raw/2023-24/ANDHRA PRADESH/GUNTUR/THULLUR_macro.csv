@@ -1,0 +1,11 @@
+State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
+Abbarajupalem,GUNTUR,THULLUR - 4974,Abbarajupalem,7,277,1007,945,238,106,1157,100,34,500,235,552,31,1,1258,1211,77,1067,223,816,473,976,315,1281,10,1262,28,1190,101
+Ainavolu,GUNTUR,THULLUR - 4974,Ainavolu,0,121,169,226,50,14,262,24,4,175,36,78,10,1,279,280,10,248,42,176,114,200,90,286,4,281,9,280,10
+Ananthavaram,GUNTUR,THULLUR - 4974,Ananthavaram,0,28,152,145,31,4,165,9,6,58,23,99,5,0,175,158,22,166,14,129,51,133,47,177,3,176,3,165,15
+Lingayapalem,GUNTUR,THULLUR - 4974,Lingayapalem,0,2,0,0,2,0,0,2,0,0,2,0,0,0,2,2,0,2,0,2,0,0,2,2,0,2,0,2,0
+Mandadam,GUNTUR,THULLUR - 4974,Mandadam,0,3,2,5,0,0,3,1,1,0,2,3,0,0,5,5,0,5,0,4,1,5,0,5,0,5,0,5,0
+Nelapadu,GUNTUR,THULLUR - 4974,Nelapadu,0,0,25,24,0,1,25,0,0,2,5,18,0,0,25,25,0,20,5,23,2,23,2,22,0,25,0,19,6
+Pedaparimi,GUNTUR,THULLUR - 4974,Pedaparimi,0,0,9,7,1,1,4,2,3,0,2,7,0,0,9,9,0,6,3,7,2,9,0,9,0,9,0,9,0
+Rayapudi,GUNTUR,THULLUR - 4974,Rayapudi,0,0,3,1,2,0,0,1,2,0,0,3,0,0,3,3,0,2,1,1,2,3,0,3,0,3,0,3,0
+Thullur,GUNTUR,THULLUR - 4974,Thullur,0,1,0,0,1,0,0,0,1,1,0,0,0,0,1,1,0,1,0,1,0,1,0,1,0,1,0,1,0
+Vaddamanu,GUNTUR,THULLUR - 4974,Vaddamanu,0,0,4,1,1,2,0,2,2,0,1,3,0,0,4,4,0,2,2,1,3,2,2,4,0,4,0,3,0

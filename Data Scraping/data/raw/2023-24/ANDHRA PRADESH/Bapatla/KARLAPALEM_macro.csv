@@ -1,0 +1,6 @@
+State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
+Buddam,Bapatla,KARLAPALEM - 4942,Buddam,0,0,17,0,1,16,13,4,0,0,0,17,0,0,17,14,3,13,4,1,16,8,9,17,0,12,5,2,15
+Ganapavaram,Bapatla,KARLAPALEM - 4942,Ganapavaram,0,20,78,0,5,92,70,27,1,0,22,76,5,0,93,77,21,71,27,9,89,31,67,98,0,82,16,23,75
+Karlapalem,Bapatla,KARLAPALEM - 4942,Karlapalem,0,29,124,1,8,143,73,70,10,3,27,123,1,11,141,117,36,116,37,117,36,79,74,153,0,102,51,85,67
+Perali,Bapatla,KARLAPALEM - 4942,Perali,0,0,87,0,4,83,23,51,13,0,1,86,0,0,87,72,15,63,24,58,29,27,60,79,8,75,12,54,33
+Yazali,Bapatla,KARLAPALEM - 4942,Yazali,0,23,98,1,12,108,101,19,1,0,28,93,0,0,121,91,30,104,17,34,87,47,74,119,2,95,26,97,24

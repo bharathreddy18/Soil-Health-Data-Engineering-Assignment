@@ -1,0 +1,18 @@
+State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
+Aravedu,ANANTAPUR,YELLANUR - 4748,Aravedu,0,0,3,3,0,0,2,1,0,0,1,2,0,0,3,3,0,3,0,2,1,2,1,3,0,2,1,3,0
+Boppepalle,ANANTAPUR,YELLANUR - 4748,Boppepalle,0,0,12,10,2,0,4,8,0,0,1,11,0,0,12,12,0,12,0,10,2,8,4,12,0,10,2,12,0
+Bukkapuram,ANANTAPUR,YELLANUR - 4748,Bukkapuram,0,1,11,12,0,0,6,6,0,0,1,11,0,0,12,12,0,12,0,9,3,7,5,12,0,8,4,12,0
+Chilamakuru,ANANTAPUR,YELLANUR - 4748,Chilamakuru,0,1,2,3,0,0,1,2,0,0,0,3,0,0,3,3,0,3,0,1,2,1,2,3,0,3,0,3,0
+Goddumarri,ANANTAPUR,YELLANUR - 4748,Goddumarri,0,0,31,28,3,0,14,17,0,0,0,31,0,0,31,31,0,31,0,14,17,26,5,31,0,22,9,31,0
+Kacharlakunta,ANANTAPUR,YELLANUR - 4748,Kacharlakunta,0,0,4,4,0,0,2,2,0,0,0,4,0,0,4,4,0,4,0,3,1,3,1,4,0,3,1,4,0
+Kalluru,ANANTAPUR,YELLANUR - 4748,Kalluru,0,1,36,34,3,0,21,16,0,0,1,36,0,0,37,37,0,36,1,25,12,27,10,37,0,31,6,35,2
+Mallagundla,ANANTAPUR,YELLANUR - 4748,Mallagundla,0,0,17,17,0,0,14,3,0,0,0,17,0,0,17,17,0,17,0,16,1,5,12,17,0,16,1,17,0
+Nitturu,ANANTAPUR,YELLANUR - 4748,Nitturu,0,0,2,2,0,0,0,2,0,0,1,1,0,0,2,2,0,2,0,1,1,1,1,2,0,2,0,1,1
+Pathapalle,ANANTAPUR,YELLANUR - 4748,Pathapalle,0,0,3,3,0,0,3,0,0,0,0,3,0,0,3,3,0,3,0,2,1,0,3,3,0,2,1,2,1
+Peddamallepalle,ANANTAPUR,YELLANUR - 4748,Peddamallepalle,0,0,3,3,0,0,0,3,0,0,1,2,1,0,2,3,0,3,0,2,1,1,2,3,0,3,0,3,0
+Singavaram,ANANTAPUR,YELLANUR - 4748,Singavaram,0,0,9,8,1,0,7,2,0,0,1,8,0,0,9,9,0,9,0,5,4,8,1,9,0,7,2,9,0
+Thirumalapuram,ANANTAPUR,YELLANUR - 4748,Thirumalapuram,0,0,7,7,0,0,3,4,0,0,0,7,0,0,7,7,0,7,0,2,5,1,6,7,0,6,1,7,0
+Vemulapalle,ANANTAPUR,YELLANUR - 4748,Vemulapalle,0,1,3,4,0,0,3,1,0,0,0,4,0,0,4,4,0,4,0,2,2,3,1,4,0,3,1,4,0
+Vennapurapalle,ANANTAPUR,YELLANUR - 4748,Vennapurapalle,0,0,15,14,1,0,10,4,1,0,0,15,0,0,15,15,0,15,0,12,3,5,10,15,0,11,4,14,1
+Y.Chintakayamanda,ANANTAPUR,YELLANUR - 4748,Y.Chintakayamanda,0,0,18,18,0,0,7,11,0,0,1,17,1,0,17,18,0,18,0,7,11,11,7,18,0,14,4,18,0
+Yellanur,ANANTAPUR,YELLANUR - 4748,Yellanur,0,0,40,38,2,0,27,13,0,0,4,36,0,0,40,40,0,40,0,24,16,21,19,40,0,36,4,39,1

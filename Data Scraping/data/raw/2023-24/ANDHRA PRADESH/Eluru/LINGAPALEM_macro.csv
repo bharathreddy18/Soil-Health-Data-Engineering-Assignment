@@ -1,0 +1,24 @@
+State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
+Asannagudem,Eluru,LINGAPALEM - 5729,Asannagudem,0,1,8,1,3,5,2,5,2,0,6,3,0,0,9,9,0,6,3,7,2,7,2,9,0,8,1,9,0
+Ayyaparajugudem,Eluru,LINGAPALEM - 5729,Ayyaparajugudem,0,1,17,16,2,0,18,0,0,0,6,12,0,0,18,18,0,18,0,3,15,14,4,4,14,18,0,0,18
+Badarala,Eluru,LINGAPALEM - 5729,Badarala,0,2,7,2,1,6,0,4,5,0,4,5,0,0,9,9,0,8,1,3,6,6,3,7,2,9,0,8,1
+Bhogole,Eluru,LINGAPALEM - 5729,Bhogole,0,7,31,34,2,2,36,0,2,3,6,29,0,0,38,37,1,37,1,32,6,12,26,38,0,35,3,23,15
+Chandrannapalem,Eluru,LINGAPALEM - 5729,Chandrannapalem,0,1,5,6,0,0,5,1,0,1,4,1,0,0,6,6,0,6,0,5,1,5,1,6,0,6,0,6,0
+Dharmajigudem,Eluru,LINGAPALEM - 5729,Dharmajigudem,0,2,37,38,0,1,37,1,1,0,5,34,0,0,39,39,0,37,2,29,10,12,27,39,0,39,0,9,30
+Ganapavarigudem,Eluru,LINGAPALEM - 5729,Ganapavarigudem,0,0,18,14,4,0,9,7,2,5,9,4,0,0,18,18,0,13,5,18,0,8,10,18,0,11,7,14,4
+Juvvachalakarayudupalem,Eluru,LINGAPALEM - 5729,Juvvachalakarayudupalem,0,0,18,18,0,0,18,0,0,0,4,14,0,0,18,18,0,18,0,13,5,0,18,17,1,17,1,10,8
+Kalarayanagudem,Eluru,LINGAPALEM - 5729,Kalarayanagudem,0,0,19,14,3,2,19,0,0,0,4,15,0,0,19,19,0,19,0,4,15,5,14,19,0,16,3,9,10
+Kalyanampadu,Eluru,LINGAPALEM - 5729,Kalyanampadu,0,0,7,7,0,0,4,3,0,0,0,7,0,0,7,7,0,5,2,2,5,2,5,7,0,7,0,4,3
+Kothapalle,Eluru,LINGAPALEM - 5729,Kothapalle,0,1,19,17,2,1,12,8,0,6,7,7,0,0,20,20,0,20,0,17,3,4,16,20,0,15,5,16,4
+Kothulagokavaram,Eluru,LINGAPALEM - 5729,Kothulagokavaram,0,5,7,10,2,0,4,6,2,7,5,0,0,0,12,12,0,12,0,10,2,9,3,8,4,10,2,11,1
+Lingapalem,Eluru,LINGAPALEM - 5729,Lingapalem,0,1,13,14,0,0,4,8,2,2,0,12,0,0,14,14,0,8,6,7,7,9,5,14,0,13,1,12,2
+Malleswaram,Eluru,LINGAPALEM - 5729,Malleswaram,0,0,1,1,0,0,0,0,1,0,0,1,0,0,1,1,0,1,0,1,0,0,1,1,0,1,0,1,0
+Mattamgudem,Eluru,LINGAPALEM - 5729,Mattamgudem,0,4,26,22,4,4,25,3,2,1,8,21,0,0,30,28,2,25,5,19,11,12,18,30,0,28,2,27,3
+Mudicherla,Eluru,LINGAPALEM - 5729,Mudicherla,0,0,2,2,0,0,0,1,1,0,2,0,0,0,2,2,0,2,0,1,1,2,0,2,0,2,0,2,0
+Mulagalampadu,Eluru,LINGAPALEM - 5729,Mulagalampadu,0,0,20,19,1,0,7,6,7,3,7,10,0,0,20,20,0,14,6,15,5,19,1,20,0,17,3,16,4
+Patchanagaram,Eluru,LINGAPALEM - 5729,Patchanagaram,0,0,6,5,0,1,1,5,0,1,3,2,0,0,6,6,0,4,2,5,1,5,1,5,1,6,0,6,0
+Puppalavarigudem,Eluru,LINGAPALEM - 5729,Puppalavarigudem,0,1,0,1,0,0,0,1,0,0,0,1,0,0,1,1,0,0,1,1,0,0,1,1,0,1,0,1,0
+Rangapuram,Eluru,LINGAPALEM - 5729,Rangapuram,0,2,17,19,0,0,3,14,2,5,4,10,0,0,19,19,0,18,1,17,2,11,8,18,1,13,6,19,0
+Singagudem,Eluru,LINGAPALEM - 5729,Singagudem,0,3,15,12,3,3,4,12,2,2,9,7,0,0,18,18,0,15,3,15,3,6,12,18,0,14,4,8,10
+Vemulapalle,Eluru,LINGAPALEM - 5729,Vemulapalle,0,8,12,17,3,0,0,18,2,8,3,9,0,0,20,20,0,20,0,19,1,17,3,20,0,15,5,20,0
+Yedavalli,Eluru,LINGAPALEM - 5729,Yedavalli,0,0,18,12,5,1,4,9,5,0,2,16,0,0,18,18,0,16,2,8,10,7,11,18,0,14,4,11,7

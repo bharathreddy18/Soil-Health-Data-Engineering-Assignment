@@ -1,0 +1,18 @@
+State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
+Atchutapuram,EAST GODAVARI,GOKAVARAM - 4877,Atchutapuram,2,29,2,14,19,0,11,22,0,5,27,1,0,0,33,33,0,32,1,30,3,29,4,32,1,31,2,32,1
+Bhupatipalem,EAST GODAVARI,GOKAVARAM - 4877,Bhupatipalem,0,11,1,0,8,4,5,7,0,0,12,0,0,0,12,12,0,12,0,12,0,12,0,12,0,12,0,12,0
+Gangampalem,EAST GODAVARI,GOKAVARAM - 4877,Gangampalem,0,16,0,2,14,0,0,16,0,2,14,0,0,0,16,16,0,15,1,6,10,11,5,9,7,10,6,16,0
+Gokavaram,EAST GODAVARI,GOKAVARAM - 4877,Gokavaram,1,157,2,23,134,3,28,130,2,14,137,9,0,0,160,160,0,144,16,69,91,97,63,110,50,104,56,123,37
+Gummalladuddi,EAST GODAVARI,GOKAVARAM - 4877,Gummalladuddi,1,40,3,30,14,0,7,37,0,7,34,3,0,0,44,44,0,42,2,39,5,36,8,41,3,40,4,42,2
+Itikayala Palle,EAST GODAVARI,GOKAVARAM - 4877,Itikayala Palle,0,25,13,1,32,5,8,26,4,3,35,0,0,0,38,38,0,33,5,35,3,27,11,37,1,34,4,27,11
+Kamaraju Peta,EAST GODAVARI,GOKAVARAM - 4877,Kamaraju Peta,2,72,4,35,42,1,32,45,1,6,71,1,0,1,77,78,0,71,7,68,10,61,16,72,6,68,10,73,5
+Kothapalle,EAST GODAVARI,GOKAVARAM - 4877,Kothapalle,1,88,11,37,61,2,36,64,0,23,70,7,0,0,100,100,0,90,10,67,33,70,30,87,13,93,7,83,17
+Krishnunipalem,EAST GODAVARI,GOKAVARAM - 4877,Krishnunipalem,0,43,19,0,23,39,23,18,20,5,51,6,0,0,62,62,0,46,16,15,47,19,43,24,38,35,27,27,35
+Mallavaram,EAST GODAVARI,GOKAVARAM - 4877,Mallavaram,0,46,4,12,37,1,9,40,1,6,37,7,0,3,47,50,0,45,5,23,27,25,25,34,16,30,20,33,17
+Rampa Yerrampalem,EAST GODAVARI,GOKAVARAM - 4877,Rampa Yerrampalem,0,58,5,38,25,0,14,49,0,10,51,2,0,0,63,63,0,55,8,46,17,44,19,60,3,55,8,60,3
+Sivaramapatnam,EAST GODAVARI,GOKAVARAM - 4877,Sivaramapatnam,0,26,1,0,27,0,6,21,0,3,22,1,0,0,27,27,0,24,3,8,19,14,13,11,16,10,17,19,8
+Sudikonda,EAST GODAVARI,GOKAVARAM - 4877,Sudikonda,0,19,0,1,18,0,5,14,0,3,14,2,0,0,19,19,0,17,2,6,13,16,3,10,9,10,9,13,6
+Takurupalem,EAST GODAVARI,GOKAVARAM - 4877,Takurupalem,0,9,0,0,8,1,0,9,0,0,9,0,0,0,9,9,0,8,1,0,9,7,2,3,6,6,3,5,4
+Thantikonda,EAST GODAVARI,GOKAVARAM - 4877,Thantikonda,1,49,7,40,15,2,19,38,0,7,47,3,0,0,57,57,0,55,2,49,8,47,10,52,5,48,9,52,5
+Tirumalayapalem,EAST GODAVARI,GOKAVARAM - 4877,Tirumalayapalem,0,12,0,0,11,1,3,9,0,0,11,1,0,0,12,12,0,10,2,4,8,8,4,5,7,5,7,6,6
+Vedurupaka,EAST GODAVARI,GOKAVARAM - 4877,Vedurupaka,0,41,2,12,29,2,4,39,0,4,30,9,0,0,43,43,0,32,11,20,23,18,25,28,15,26,17,29,14

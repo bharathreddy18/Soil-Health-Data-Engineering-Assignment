@@ -1,0 +1,20 @@
+State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
+Adivi,Bapatla,BAPATLA - 4926,Adivi,0,1,55,0,9,47,16,26,14,1,1,54,0,0,56,45,11,43,13,47,9,36,20,54,2,54,2,33,22
+Appikatla,Bapatla,BAPATLA - 4926,Appikatla,0,0,34,0,18,16,13,21,0,0,0,34,0,0,34,5,29,26,8,0,34,24,10,34,0,32,2,0,34
+Bapatla East (R),Bapatla,BAPATLA - 4926,Bapatla East (R),0,3,93,0,20,76,7,40,49,0,1,95,0,0,96,82,14,66,30,51,45,67,27,94,2,67,29,60,36
+Bapatla West (R),Bapatla,BAPATLA - 4926,Bapatla West (R),0,0,64,2,6,56,32,18,14,0,3,61,0,0,64,54,10,56,8,8,56,24,40,64,0,19,45,30,33
+Bharthipudi,Bapatla,BAPATLA - 4926,Bharthipudi,0,1,6,0,1,6,4,3,0,0,6,1,0,0,7,6,1,7,0,2,5,7,0,7,0,6,1,4,3
+Cheruvu,Bapatla,BAPATLA - 4926,Cheruvu,0,0,35,0,1,34,35,0,0,0,0,35,0,0,35,7,28,31,4,1,34,1,31,35,0,29,6,34,1
+Etheru,Bapatla,BAPATLA - 4926,Etheru,0,25,11,0,5,31,34,2,0,0,5,31,0,0,36,32,4,28,8,27,9,15,21,36,0,28,8,29,7
+Gopapuram,Bapatla,BAPATLA - 4926,Gopapuram,0,3,1,0,2,2,4,0,0,3,0,1,0,2,2,4,0,4,0,0,4,2,2,3,1,4,0,4,0
+Gudipudi,Bapatla,BAPATLA - 4926,Gudipudi,0,1,9,0,1,9,5,5,0,0,1,9,0,0,10,9,1,6,4,0,10,8,2,10,0,8,2,1,9
+Jammulapalem,Bapatla,BAPATLA - 4926,Jammulapalem,1,23,9,0,2,31,27,6,0,1,29,3,0,0,33,29,4,19,14,30,3,16,17,33,0,20,13,29,4
+Jillellamudi,Bapatla,BAPATLA - 4926,Jillellamudi,0,14,2,0,0,16,15,1,0,1,1,14,0,0,16,13,3,13,3,0,16,4,12,16,0,13,3,2,14
+Kankatapalem,Bapatla,BAPATLA - 4926,Kankatapalem,0,0,38,0,1,37,29,9,0,0,0,38,1,0,37,19,19,30,8,2,36,20,18,38,0,33,5,5,33
+Maruproluvaripalem (R),Bapatla,BAPATLA - 4926,Maruproluvaripalem (R),0,3,84,1,34,52,32,37,18,0,4,83,3,0,84,77,10,68,19,46,41,37,49,71,16,54,33,44,42
+Mulapalem,Bapatla,BAPATLA - 4926,Mulapalem,0,12,6,0,1,17,9,9,0,0,0,18,0,0,18,14,4,13,5,1,17,3,15,18,0,17,1,0,18
+Murukondapadu,Bapatla,BAPATLA - 4926,Murukondapadu,0,0,63,0,3,60,61,2,0,0,0,63,0,0,63,44,19,56,7,58,5,45,18,62,1,55,8,54,9
+Narasayapalem,Bapatla,BAPATLA - 4926,Narasayapalem,0,1,32,0,7,26,25,8,0,0,0,33,0,0,33,33,0,27,6,0,33,10,23,33,0,32,1,0,33
+Neredupalle,Bapatla,BAPATLA - 4926,Neredupalle,0,1,8,0,1,8,5,4,0,0,5,4,0,0,9,8,1,5,4,0,9,4,5,9,0,7,2,0,9
+Palaparthipadu,Bapatla,BAPATLA - 4926,Palaparthipadu,0,5,2,0,0,7,4,3,0,0,0,7,0,0,7,7,0,4,3,1,6,7,0,7,0,5,2,6,1
+Poondla,Bapatla,BAPATLA - 4926,Poondla,0,18,10,0,15,13,24,4,0,12,9,7,0,3,25,19,9,28,0,0,28,4,24,26,2,25,3,21,7

@@ -1,0 +1,12 @@
+State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
+Bhavadevarapalle,KRISHNA,NAGAYALANKA - 5129,Bhavadevarapalle,0,20,19,1,2,36,13,3,23,13,5,21,2,0,36,7,32,16,23,36,3,22,17,39,0,39,0,39,0
+Chodavaram,KRISHNA,NAGAYALANKA - 5129,Chodavaram,0,5,3,0,4,4,8,0,0,7,0,1,0,0,8,0,8,0,8,2,6,8,0,8,0,8,0,8,0
+Edurumondi,KRISHNA,NAGAYALANKA - 5129,Edurumondi,0,48,24,0,11,61,38,22,12,4,21,47,50,0,22,0,72,56,16,66,6,10,58,72,0,72,0,37,35
+Etimoga,KRISHNA,NAGAYALANKA - 5129,Etimoga,0,52,24,1,35,40,50,22,4,14,19,43,30,0,46,32,44,51,25,71,5,26,49,76,0,76,0,47,28
+Ganapeswaram,KRISHNA,NAGAYALANKA - 5129,Ganapeswaram,0,25,14,0,3,36,34,0,5,15,17,7,17,0,22,6,33,25,14,39,0,14,25,39,0,39,0,31,8
+Kammanamolu,KRISHNA,NAGAYALANKA - 5129,Kammanamolu,0,27,15,1,11,30,29,11,2,2,11,29,8,1,33,22,20,17,25,35,7,19,22,42,0,42,0,22,20
+Nagayalanka,KRISHNA,NAGAYALANKA - 5129,Nagayalanka,0,30,9,1,14,24,31,4,4,8,16,15,1,0,38,32,7,38,1,37,2,22,17,39,0,39,0,29,10
+Nangegadda,KRISHNA,NAGAYALANKA - 5129,Nangegadda,0,32,29,6,15,40,1,37,23,17,7,37,7,0,54,38,23,16,45,60,1,38,23,61,0,58,3,61,0
+Parrachivara,KRISHNA,NAGAYALANKA - 5129,Parrachivara,0,27,13,0,4,36,24,14,2,13,1,26,12,0,28,18,22,14,26,16,19,14,26,40,0,40,0,27,13
+T.Kothapalem,KRISHNA,NAGAYALANKA - 5129,T.Kothapalem,0,33,16,0,17,32,0,29,20,19,7,23,3,0,46,7,42,28,21,46,3,25,24,49,0,42,7,47,2
+Talagadadeevi,KRISHNA,NAGAYALANKA - 5129,Talagadadeevi,0,21,13,0,6,28,31,1,2,27,3,4,15,0,19,1,33,7,27,18,11,18,16,34,0,34,0,25,9

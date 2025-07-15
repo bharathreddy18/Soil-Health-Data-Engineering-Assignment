@@ -1,0 +1,27 @@
+State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
+Alluru,Eluru,MUDINEPALLE - 5126,Alluru,0,3,26,22,5,2,27,1,1,0,1,28,0,1,28,3,26,28,1,10,19,11,18,29,0,27,2,2,27
+Bomminampadu,Eluru,MUDINEPALLE - 5126,Bomminampadu,0,0,29,8,12,8,19,10,0,0,0,29,0,0,29,28,1,29,0,28,1,11,18,27,2,29,0,1,28
+Chevuru,Eluru,MUDINEPALLE - 5126,Chevuru,0,5,6,2,5,4,5,5,1,0,6,5,0,0,11,7,4,11,0,10,1,11,0,11,0,10,1,10,1
+Chigurukota,Eluru,MUDINEPALLE - 5126,Chigurukota,0,0,22,5,13,4,0,12,10,1,0,21,0,0,22,22,0,15,7,22,0,17,5,21,0,21,1,19,3
+China Kamanapudi,Eluru,MUDINEPALLE - 5126,China Kamanapudi,0,0,2,0,0,2,0,2,0,0,0,2,0,0,2,2,0,2,0,2,0,2,0,2,0,2,0,2,0
+Dakaram,Eluru,MUDINEPALLE - 5126,Dakaram,0,9,19,13,7,8,1,3,24,0,9,19,0,0,28,28,0,28,0,24,4,24,4,28,0,25,3,21,7
+Devapudi,Eluru,MUDINEPALLE - 5126,Devapudi,0,11,17,7,7,14,18,6,4,1,10,17,0,0,28,23,5,28,0,28,0,27,1,28,0,22,6,28,0
+Devaram,Eluru,MUDINEPALLE - 5126,Devaram,0,1,3,0,4,0,0,4,0,0,1,3,0,0,4,1,3,4,0,4,0,4,0,4,0,4,0,3,1
+Guraja,Eluru,MUDINEPALLE - 5126,Guraja,0,2,27,2,4,23,12,15,2,0,3,26,0,0,29,27,2,24,5,2,25,14,15,29,0,28,1,27,2
+Kakaravada,Eluru,MUDINEPALLE - 5126,Kakaravada,0,5,5,5,3,2,1,9,0,2,5,3,0,0,10,8,2,8,2,10,0,10,0,10,0,8,2,10,0
+Koduru,Eluru,MUDINEPALLE - 5126,Koduru,0,4,25,4,5,20,24,4,1,0,8,21,0,0,29,28,1,20,9,8,21,25,4,29,0,25,4,29,0
+Komarru,Eluru,MUDINEPALLE - 5126,Komarru,0,0,2,0,0,2,0,1,1,0,0,2,0,0,2,1,1,2,0,2,0,2,0,2,0,1,1,2,0
+Korraguntapalem,Eluru,MUDINEPALLE - 5126,Korraguntapalem,0,0,15,15,0,0,15,0,0,0,0,15,0,0,15,15,0,7,8,13,2,13,2,14,1,14,1,6,9
+Mudinepalle,Eluru,MUDINEPALLE - 5126,Mudinepalle,0,15,43,45,6,7,4,32,22,1,15,42,0,0,58,43,15,53,5,54,4,31,27,58,0,54,4,27,31
+Mulakalapalle,Eluru,MUDINEPALLE - 5126,Mulakalapalle,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,1,0,0,1,1,0,1,0,1,0,1,0,1,0
+Peda Kamanapudi,Eluru,MUDINEPALLE - 5126,Peda Kamanapudi,0,10,17,22,4,1,21,5,1,2,8,17,1,0,26,16,11,27,0,14,13,27,0,27,0,22,5,27,0
+Pedagonnuru,Eluru,MUDINEPALLE - 5126,Pedagonnuru,0,14,14,18,4,6,15,6,7,1,14,13,0,0,28,27,1,28,0,26,2,26,2,28,0,25,3,27,1
+Pedapalaparru,Eluru,MUDINEPALLE - 5126,Pedapalaparru,0,17,11,27,0,1,25,1,2,2,15,11,0,0,28,28,0,13,15,28,0,28,0,28,0,27,1,26,2
+Penumalli,Eluru,MUDINEPALLE - 5126,Penumalli,0,17,11,28,0,0,0,0,28,2,17,9,0,0,28,26,2,22,6,23,5,14,14,28,0,24,4,25,3
+Peruru,Eluru,MUDINEPALLE - 5126,Peruru,0,0,2,1,1,0,0,0,2,0,1,1,0,0,2,2,0,2,0,2,0,2,0,2,0,2,0,2,0
+Peyyeru,Eluru,MUDINEPALLE - 5126,Peyyeru,0,7,21,15,3,10,3,3,22,1,4,23,0,0,28,26,2,13,15,26,2,26,2,28,0,24,4,20,8
+Singarayapalem,Eluru,MUDINEPALLE - 5126,Singarayapalem,0,11,14,16,9,0,1,15,9,0,11,14,0,0,25,25,0,24,1,24,1,24,1,25,0,23,2,24,1
+Utukuru,Eluru,MUDINEPALLE - 5126,Utukuru,0,13,17,14,0,15,25,4,1,2,16,12,0,0,30,27,3,29,1,25,5,29,1,30,0,28,2,29,1
+Vadavalli,Eluru,MUDINEPALLE - 5126,Vadavalli,0,11,16,8,9,10,0,24,3,2,16,9,0,0,27,23,4,25,2,26,1,27,0,27,0,25,2,27,0
+Vaivaka,Eluru,MUDINEPALLE - 5126,Vaivaka,0,3,8,4,2,5,1,10,0,2,6,3,0,0,11,11,0,11,0,5,6,11,0,11,0,10,1,11,0
+Vanudurru,Eluru,MUDINEPALLE - 5126,Vanudurru,0,14,15,11,15,3,0,26,3,1,15,13,0,0,29,29,0,28,1,24,3,29,0,29,0,25,4,27,2

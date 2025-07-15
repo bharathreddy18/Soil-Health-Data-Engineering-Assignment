@@ -1,0 +1,7 @@
+State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
+Chinaganjam,Bapatla,CHINAGANJAM - 5460,Chinaganjam,0,0,48,4,17,27,27,10,11,0,0,48,0,0,48,47,1,26,22,0,46,30,18,34,11,37,11,34,8
+Gonasapudi,Bapatla,CHINAGANJAM - 5460,Gonasapudi,0,0,9,0,4,5,9,0,0,0,0,9,0,0,9,9,0,4,5,0,9,3,6,7,2,4,5,7,2
+Kadavakuduru,Bapatla,CHINAGANJAM - 5460,Kadavakuduru,0,0,23,0,14,9,12,11,0,0,0,23,0,0,23,22,1,5,18,0,23,19,4,16,6,19,4,19,4
+Motu Palle,Bapatla,CHINAGANJAM - 5460,Motu Palle,0,0,14,1,10,3,4,10,0,0,0,14,0,0,14,14,0,11,3,1,13,8,6,14,0,6,8,5,9
+Pedaganjam,Bapatla,CHINAGANJAM - 5460,Pedaganjam,0,0,13,1,5,7,6,6,1,0,0,13,0,0,13,11,2,6,7,2,11,9,4,6,6,8,5,11,2
+Santharavuru,Bapatla,CHINAGANJAM - 5460,Santharavuru,0,0,24,1,2,21,23,1,0,0,0,24,0,0,24,20,4,20,4,7,17,1,23,24,0,7,17,23,1

@@ -1,0 +1,11 @@
+State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
+Devalapalle,Annamayya,KALAKADA - 4764,Devalapalle,0,0,7,5,2,0,7,0,0,0,0,7,0,0,7,7,0,5,2,0,7,3,4,7,0,2,5,6,1
+Gangapuram,Annamayya,KALAKADA - 4764,Gangapuram,0,1,5,3,2,1,5,1,0,0,0,6,0,0,6,5,1,2,4,1,5,5,1,5,1,1,5,6,0
+Gudibanda,Annamayya,KALAKADA - 4764,Gudibanda,0,0,2,2,0,0,2,0,0,0,0,2,0,0,2,2,0,1,1,2,0,2,0,2,0,0,2,2,0
+Kadirayacheruvu,Annamayya,KALAKADA - 4764,Kadirayacheruvu,0,0,12,11,1,0,4,8,0,0,1,11,0,0,12,12,0,9,3,2,10,8,4,10,2,5,7,12,0
+Kalakada,Annamayya,KALAKADA - 4764,Kalakada,1,3,87,67,12,12,57,33,1,4,6,81,1,0,90,91,0,62,29,11,80,40,51,85,6,46,45,80,11
+Kalakadakothapalle,Annamayya,KALAKADA - 4764,Kalakadakothapalle,0,2,30,18,11,3,20,12,0,1,1,30,0,0,31,31,0,21,11,1,31,15,17,29,3,20,12,26,6
+Kona,Annamayya,KALAKADA - 4764,Kona,0,1,22,22,1,0,14,9,0,1,1,21,0,0,23,23,0,20,3,2,21,14,9,23,0,11,12,23,0
+Mudiamvaripalle,Annamayya,KALAKADA - 4764,Mudiamvaripalle,1,1,21,15,4,4,12,11,0,0,1,22,0,0,23,23,0,17,6,6,17,18,5,23,0,10,13,23,0
+Nadimicherla,Annamayya,KALAKADA - 4764,Nadimicherla,0,0,4,4,0,0,2,2,0,1,0,3,0,0,4,4,0,4,0,2,2,4,0,4,0,2,2,3,1
+Pothavaripalle,Annamayya,KALAKADA - 4764,Pothavaripalle,0,0,5,3,1,1,2,3,0,0,1,4,0,0,5,5,0,4,1,0,5,1,4,4,1,4,1,5,0

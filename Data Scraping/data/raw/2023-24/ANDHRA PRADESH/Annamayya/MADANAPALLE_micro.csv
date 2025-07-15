@@ -1,0 +1,15 @@
+State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
+Ankisettipalle (OG),Annamayya,MADANAPALLE - 4770,Ankisettipalle (OG),0,3,27,13,7,10,13,16,1,0,3,26,0,0,27,28,0,16,14,16,14,20,10,26,4,12,18,28,2
+Basinikonda (Part),Annamayya,MADANAPALLE - 4770,Basinikonda (Part),0,2,51,29,15,9,23,27,3,2,5,46,0,0,52,52,0,33,20,32,21,26,25,48,5,20,33,32,20
+Chinnathippasamudram,Annamayya,MADANAPALLE - 4770,Chinnathippasamudram,0,1,57,31,11,17,39,20,0,1,5,52,0,0,57,33,25,35,24,37,22,29,30,50,8,26,33,39,18
+Kollabylu (Part),Annamayya,MADANAPALLE - 4770,Kollabylu (Part),0,1,65,21,24,21,16,46,4,7,3,54,1,0,62,64,0,42,24,34,32,36,30,61,5,31,35,49,16
+Kothavaripalle,Annamayya,MADANAPALLE - 4770,Kothavaripalle,0,3,81,45,22,17,62,21,1,5,7,72,0,0,81,78,5,57,27,47,37,55,28,69,12,28,56,57,26
+Madanapalle (R) (Part),Annamayya,MADANAPALLE - 4770,Madanapalle (R) (Part),0,1,37,17,13,8,12,26,0,1,3,34,0,0,38,34,4,31,7,21,17,21,17,34,4,18,20,28,10
+Malepadu,Annamayya,MADANAPALLE - 4770,Malepadu,0,1,14,10,3,2,3,12,0,0,2,13,0,0,15,15,0,11,4,1,14,5,10,14,1,10,5,11,4
+Molakaladinne,Annamayya,MADANAPALLE - 4770,Molakaladinne,0,0,3,1,1,1,1,2,0,0,0,3,0,0,3,3,0,2,1,3,0,1,2,3,0,3,0,3,0
+PappireddiPalle (OG),Annamayya,MADANAPALLE - 4770,PappireddiPalle (OG),0,0,3,3,0,0,3,0,0,0,0,3,0,0,3,3,0,1,2,2,1,2,1,3,0,2,1,2,1
+Penchupadu,Annamayya,MADANAPALLE - 4770,Penchupadu,1,2,27,15,7,8,5,25,0,1,4,25,0,0,30,30,0,19,11,7,23,17,13,31,0,19,11,16,14
+Ponnetipalem (OG) (Part),Annamayya,MADANAPALLE - 4770,Ponnetipalem (OG) (Part),0,0,37,22,10,5,11,26,0,1,5,31,0,0,37,37,0,32,5,23,14,19,18,33,4,21,16,19,18
+Pothapalu,Annamayya,MADANAPALLE - 4770,Pothapalu,0,0,30,19,10,2,23,7,1,2,2,25,0,0,29,29,0,16,15,5,26,14,17,30,1,14,17,17,14
+Valasapalle,Annamayya,MADANAPALLE - 4770,Valasapalle,0,0,22,13,5,4,4,18,0,2,2,18,0,0,22,22,0,16,6,17,5,3,19,20,2,13,9,8,14
+Vempalle,Annamayya,MADANAPALLE - 4770,Vempalle,0,0,53,23,16,14,20,31,2,2,3,48,0,1,51,51,2,31,22,20,33,30,23,52,1,22,31,42,10

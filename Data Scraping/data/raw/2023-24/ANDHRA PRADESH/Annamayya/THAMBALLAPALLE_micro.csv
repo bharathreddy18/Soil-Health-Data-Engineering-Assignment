@@ -1,0 +1,16 @@
+State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
+Diguvapalem,Annamayya,THAMBALLAPALLE - 4801,Diguvapalem,0,1,47,34,7,7,24,23,1,1,4,43,0,0,48,48,0,25,23,3,45,22,26,47,1,22,26,47,1
+Eddulavaripalle,Annamayya,THAMBALLAPALLE - 4801,Eddulavaripalle,0,0,23,18,4,1,17,6,0,3,3,17,0,0,23,23,0,9,14,11,12,14,9,23,0,7,16,23,0
+Gopidinne,Annamayya,THAMBALLAPALLE - 4801,Gopidinne,0,0,37,29,4,4,29,8,0,2,0,35,0,0,37,37,0,12,25,32,5,21,16,37,0,10,27,37,0
+Gundlapalle,Annamayya,THAMBALLAPALLE - 4801,Gundlapalle,0,0,10,1,4,5,8,2,0,1,1,8,0,0,10,10,0,3,7,5,5,8,2,8,2,4,6,8,2
+Kannemadugu,Annamayya,THAMBALLAPALLE - 4801,Kannemadugu,0,3,18,14,4,3,18,3,0,2,1,18,0,0,21,21,0,14,7,2,18,2,19,20,0,7,14,20,0
+Kosuvaripalle,Annamayya,THAMBALLAPALLE - 4801,Kosuvaripalle,0,1,81,65,16,2,73,10,0,1,0,81,0,0,82,82,0,19,64,51,32,56,27,80,2,15,68,82,1
+Kotakonda,Annamayya,THAMBALLAPALLE - 4801,Kotakonda,0,1,43,36,5,3,42,2,0,0,0,44,1,0,43,43,1,13,31,21,23,17,27,43,0,24,20,39,5
+Kotala,Annamayya,THAMBALLAPALLE - 4801,Kotala,0,0,53,41,11,1,37,15,1,11,11,31,4,0,49,53,0,22,31,17,36,34,19,51,2,16,37,53,0
+Kotlapalle,Annamayya,THAMBALLAPALLE - 4801,Kotlapalle,0,0,1,0,0,1,1,0,0,0,0,1,0,0,1,1,0,0,1,0,1,1,0,1,0,0,1,1,0
+Kukkarajupalle,Annamayya,THAMBALLAPALLE - 4801,Kukkarajupalle,0,5,36,28,11,2,33,8,0,0,0,40,0,0,40,40,0,16,25,22,19,16,25,38,2,18,23,41,0
+Marrimakulapalle,Annamayya,THAMBALLAPALLE - 4801,Marrimakulapalle,2,3,33,22,13,3,29,8,1,2,4,32,0,15,23,23,15,13,25,9,29,13,25,35,1,8,30,35,3
+Panchalamarri,Annamayya,THAMBALLAPALLE - 4801,Panchalamarri,0,0,11,10,1,0,8,3,0,1,0,10,0,0,10,11,0,10,1,3,8,8,3,10,0,7,4,11,0
+Renimakulapalle,Annamayya,THAMBALLAPALLE - 4801,Renimakulapalle,1,2,37,25,11,4,38,2,0,0,0,40,0,0,40,40,0,10,30,24,16,21,19,40,0,17,23,40,0
+Thamballapalle,Annamayya,THAMBALLAPALLE - 4801,Thamballapalle,0,2,80,66,14,3,74,9,0,3,1,78,4,2,73,80,0,24,59,61,27,32,54,84,1,43,42,81,7
+Yerrasanipalle,Annamayya,THAMBALLAPALLE - 4801,Yerrasanipalle,0,0,8,7,1,0,3,5,0,0,0,8,0,0,8,8,0,5,3,1,7,3,5,8,0,3,5,8,0

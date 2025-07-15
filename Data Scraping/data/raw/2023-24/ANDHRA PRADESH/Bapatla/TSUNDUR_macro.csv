@@ -1,0 +1,13 @@
+State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
+Alapadu,Bapatla,TSUNDUR - 4975,Alapadu,0,11,46,0,5,52,38,19,0,2,9,46,0,0,57,57,0,41,16,13,43,30,27,54,3,39,18,51,6
+Chinaparimi,Bapatla,TSUNDUR - 4975,Chinaparimi,0,5,42,0,2,45,35,8,4,0,12,35,0,0,47,45,2,41,6,30,17,36,10,47,0,38,9,47,0
+Edlapalle,Bapatla,TSUNDUR - 4975,Edlapalle,0,12,83,0,7,88,64,31,0,0,1,94,0,0,95,94,1,65,30,60,34,70,25,95,0,75,20,80,15
+Kothapalle Narikellapalle,Bapatla,TSUNDUR - 4975,Kothapalle Narikellapalle,0,0,33,0,2,31,23,9,1,0,0,33,0,0,33,33,0,24,9,2,31,27,6,33,0,23,10,21,12
+Manduru,Bapatla,TSUNDUR - 4975,Manduru,0,18,32,1,9,40,38,12,0,1,21,28,0,0,50,44,6,44,6,46,4,33,17,50,0,47,3,48,2
+Modukuru,Bapatla,TSUNDUR - 4975,Modukuru,0,21,73,1,35,58,67,27,0,0,31,63,0,0,94,55,39,87,7,71,23,78,16,94,0,82,12,93,1
+Pedagadelavarru,Bapatla,TSUNDUR - 4975,Pedagadelavarru,0,19,28,0,6,41,38,9,0,0,26,21,0,0,47,47,0,35,12,45,2,45,2,47,0,38,9,47,0
+Penugudurupadu,Bapatla,TSUNDUR - 4975,Penugudurupadu,0,34,16,0,7,43,24,25,1,0,48,2,0,0,50,48,2,45,5,47,3,47,2,50,0,35,15,49,1
+Thottempudi,Bapatla,TSUNDUR - 4975,Thottempudi,3,21,23,0,4,43,30,17,0,5,20,22,0,0,47,34,13,35,12,3,44,24,22,47,0,19,28,36,11
+Tsundur,Bapatla,TSUNDUR - 4975,Tsundur,1,38,92,0,22,109,93,38,0,2,36,93,0,0,131,82,49,109,22,4,127,75,55,131,0,90,41,77,48
+Valiveru,Bapatla,TSUNDUR - 4975,Valiveru,0,50,4,0,18,36,35,19,0,0,50,4,0,0,54,53,1,45,9,51,3,51,3,54,0,33,21,54,0
+Vetapalem,Bapatla,TSUNDUR - 4975,Vetapalem,0,0,28,0,0,28,26,2,0,2,0,26,0,0,28,28,0,16,12,3,25,20,8,28,0,18,10,14,14

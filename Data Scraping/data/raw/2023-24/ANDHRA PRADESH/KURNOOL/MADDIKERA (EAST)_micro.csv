@@ -1,0 +1,7 @@
+State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
+Burujula,KURNOOL,MADDIKERA (EAST) - 5179,Burujula,0,7,5,7,5,0,3,7,2,0,3,9,0,0,12,11,1,12,0,0,12,4,8,12,0,9,3,8,4
+Hampa,KURNOOL,MADDIKERA (EAST) - 5179,Hampa,0,0,2,1,0,1,1,1,0,1,0,1,1,0,1,2,0,2,0,0,2,0,2,2,0,1,1,1,1
+Maddikera (East),KURNOOL,MADDIKERA (EAST) - 5179,Maddikera (East),0,8,39,19,20,8,25,21,1,1,10,36,9,0,38,47,0,47,0,5,42,17,30,43,4,39,8,30,17
+Maddikera (North),KURNOOL,MADDIKERA (EAST) - 5179,Maddikera (North),0,0,11,5,5,1,7,3,1,0,3,8,8,0,3,11,0,11,0,2,9,2,9,10,1,7,4,7,4
+Maddikera (West),KURNOOL,MADDIKERA (EAST) - 5179,Maddikera (West),0,1,21,3,15,4,10,9,3,0,3,19,15,0,7,22,0,21,1,2,20,5,17,19,3,10,12,18,4
+Peravali,KURNOOL,MADDIKERA (EAST) - 5179,Peravali,0,1,5,1,4,1,2,4,0,0,1,5,0,0,6,6,0,6,0,0,6,0,6,6,0,1,5,6,0

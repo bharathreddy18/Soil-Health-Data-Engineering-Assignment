@@ -1,0 +1,50 @@
+State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
+Agraharapu Koderu,Alluri Sitharama Raju,CHINTOOR - 5062,Agraharapu Koderu,1,1,7,7,2,0,0,6,3,0,4,5,0,0,9,9,0,8,1,3,6,0,9,9,0,3,6,5,4
+Alligudem,Alluri Sitharama Raju,CHINTOOR - 5062,Alligudem,0,0,7,5,2,0,0,4,3,1,3,3,0,0,7,7,0,7,0,2,5,1,6,5,2,7,0,6,1
+Balimela,Alluri Sitharama Raju,CHINTOOR - 5062,Balimela,0,0,1,1,0,0,0,1,0,0,1,0,0,0,1,1,0,1,0,0,1,0,1,0,1,0,1,1,0
+Boddugudem,Alluri Sitharama Raju,CHINTOOR - 5062,Boddugudem,0,0,5,3,2,0,0,2,3,0,1,4,0,0,5,4,0,5,0,2,3,0,5,5,0,3,2,4,1
+Burakanakota,Alluri Sitharama Raju,CHINTOOR - 5062,Burakanakota,0,0,17,12,5,0,0,11,6,0,1,16,0,0,17,17,0,17,0,7,10,0,17,8,9,7,10,16,1
+Chatti,Alluri Sitharama Raju,CHINTOOR - 5062,Chatti,0,2,24,16,10,0,0,13,13,1,9,16,0,0,26,26,0,26,0,9,17,0,26,21,5,11,15,24,2
+Chidumurum,Alluri Sitharama Raju,CHINTOOR - 5062,Chidumurum,0,0,3,3,0,0,0,1,2,0,1,2,0,0,3,3,0,3,0,3,0,0,3,1,2,1,2,3,0
+Chinna Seethannapalle,Alluri Sitharama Raju,CHINTOOR - 5062,Chinna Seethannapalle,0,0,2,0,2,0,0,0,2,0,1,1,0,0,2,2,0,2,0,1,1,0,2,2,0,2,0,2,0
+Chintur,Alluri Sitharama Raju,CHINTOOR - 5062,Chintur,0,0,3,2,1,0,0,1,2,0,0,3,0,0,3,3,0,3,0,0,3,0,3,3,0,0,3,2,1
+Devarapalle,Alluri Sitharama Raju,CHINTOOR - 5062,Devarapalle,0,0,3,2,2,0,0,0,4,0,2,0,0,1,1,2,0,5,0,0,5,0,5,5,0,3,2,3,2
+Ganganametta,Alluri Sitharama Raju,CHINTOOR - 5062,Ganganametta,0,0,5,3,2,0,0,3,2,1,3,1,0,3,2,5,0,5,0,0,5,0,5,2,3,0,5,0,5
+Gondigudem,Alluri Sitharama Raju,CHINTOOR - 5062,Gondigudem,0,1,0,1,0,0,0,1,0,0,0,1,0,0,1,1,0,1,0,0,3,0,3,4,0,1,0,4,0
+Guduru,Alluri Sitharama Raju,CHINTOOR - 5062,Guduru,0,0,4,1,2,1,0,1,4,0,2,1,0,0,1,2,0,5,0,1,4,1,4,4,1,4,1,0,5
+Irkampeta,Alluri Sitharama Raju,CHINTOOR - 5062,Irkampeta,0,0,3,4,0,0,0,4,0,0,1,2,0,0,3,3,0,4,0,0,4,0,4,0,4,0,4,0,4
+Kalleru,Alluri Sitharama Raju,CHINTOOR - 5062,Kalleru,0,2,7,4,5,0,0,4,5,0,2,7,0,1,8,9,0,8,1,3,6,2,7,8,1,4,5,6,3
+Kannayagudem,Alluri Sitharama Raju,CHINTOOR - 5062,Kannayagudem,0,0,2,2,0,0,0,2,0,0,1,1,0,0,2,2,0,2,0,1,1,0,2,2,0,0,2,1,1
+Katukapalle,Alluri Sitharama Raju,CHINTOOR - 5062,Katukapalle,0,0,4,3,1,0,0,3,1,0,1,3,0,0,4,4,0,4,0,1,3,0,4,2,2,1,3,3,1
+Kolthuru,Alluri Sitharama Raju,CHINTOOR - 5062,Kolthuru,0,0,4,4,0,0,0,4,0,0,2,2,0,0,4,4,0,4,0,3,1,0,4,0,4,1,3,4,0
+Kummuru,Alluri Sitharama Raju,CHINTOOR - 5062,Kummuru,0,0,3,3,0,0,0,2,1,0,0,3,0,0,3,3,0,3,0,0,3,0,3,3,0,0,3,2,1
+Kuyuguru,Alluri Sitharama Raju,CHINTOOR - 5062,Kuyuguru,0,1,2,2,1,0,0,2,1,0,0,3,0,0,3,3,0,3,0,0,3,0,3,2,1,2,1,1,2
+Lachigudem,Alluri Sitharama Raju,CHINTOOR - 5062,Lachigudem,0,0,3,3,0,0,0,3,0,0,0,3,0,0,3,3,0,3,0,0,3,0,3,2,1,2,1,3,0
+Lakkavaram,Alluri Sitharama Raju,CHINTOOR - 5062,Lakkavaram,0,0,15,7,8,0,0,8,7,1,5,9,0,0,15,15,0,15,0,11,4,2,13,5,10,10,5,13,2
+Maddigudem,Alluri Sitharama Raju,CHINTOOR - 5062,Maddigudem,0,0,1,0,1,0,0,0,1,0,0,1,0,0,1,1,0,1,0,0,1,0,1,0,1,0,1,1,0
+Madugur,Alluri Sitharama Raju,CHINTOOR - 5062,Madugur,0,0,3,2,1,0,0,2,1,0,1,2,0,0,3,3,0,3,0,0,3,0,3,0,3,0,3,1,2
+Mallampeta,Alluri Sitharama Raju,CHINTOOR - 5062,Mallampeta,0,0,1,1,0,0,0,2,0,0,0,1,0,0,1,1,0,2,0,1,1,0,2,2,0,0,2,1,1
+Mallethota,Alluri Sitharama Raju,CHINTOOR - 5062,Mallethota,0,0,5,4,2,0,0,3,3,0,4,0,0,0,4,4,0,7,0,1,6,0,7,7,0,0,7,1,6
+Mittavada,Alluri Sitharama Raju,CHINTOOR - 5062,Mittavada,0,0,5,3,2,0,0,3,2,0,0,5,0,1,4,5,0,5,0,4,1,0,5,2,3,2,3,4,1
+Mothugudem,Alluri Sitharama Raju,CHINTOOR - 5062,Mothugudem,0,0,20,13,7,0,0,12,8,0,12,8,0,3,17,20,0,20,0,0,20,0,20,12,8,0,20,5,15
+Narakonda,Alluri Sitharama Raju,CHINTOOR - 5062,Narakonda,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,1,0,1,0
+Narayanapuram,Alluri Sitharama Raju,CHINTOOR - 5062,Narayanapuram,0,0,3,2,1,0,0,2,1,0,0,3,0,0,2,3,0,3,0,0,3,0,3,3,0,0,3,2,1
+Narsingapeta,Alluri Sitharama Raju,CHINTOOR - 5062,Narsingapeta,0,1,4,4,1,0,0,4,1,1,2,2,0,0,5,5,0,5,0,1,4,0,5,5,0,5,0,4,1
+Nelakota,Alluri Sitharama Raju,CHINTOOR - 5062,Nelakota,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,3,0,0,2,1,2
+Pedda Seetanapalle,Alluri Sitharama Raju,CHINTOOR - 5062,Pedda Seetanapalle,1,1,4,4,2,0,0,3,3,0,2,4,0,0,6,6,0,6,0,3,3,0,6,6,0,2,4,6,0
+Pega,Alluri Sitharama Raju,CHINTOOR - 5062,Pega,0,0,2,2,0,0,0,0,2,0,0,2,0,0,2,2,0,2,0,2,0,0,2,0,2,1,1,2,0
+Pothanapalle,Alluri Sitharama Raju,CHINTOOR - 5062,Pothanapalle,0,0,3,3,0,0,0,3,0,0,2,1,0,0,3,3,0,3,0,2,1,0,2,3,0,1,2,3,0
+Ramannapalem,Alluri Sitharama Raju,CHINTOOR - 5062,Ramannapalem,0,0,5,4,1,0,0,1,4,0,3,2,0,0,5,5,0,4,1,4,1,1,4,1,4,4,1,5,0
+Ratnapuram,Alluri Sitharama Raju,CHINTOOR - 5062,Ratnapuram,0,0,2,0,2,0,0,0,2,0,1,1,0,0,1,1,0,2,0,1,1,0,2,2,0,0,2,1,1
+Sarivela,Alluri Sitharama Raju,CHINTOOR - 5062,Sarivela,0,0,3,1,2,0,0,1,2,0,0,3,0,0,3,3,0,3,0,0,3,0,3,3,0,2,1,1,2
+Stafordpeta,Alluri Sitharama Raju,CHINTOOR - 5062,Stafordpeta,0,0,3,2,1,0,0,2,1,1,0,2,0,0,3,3,0,3,0,0,3,0,3,1,2,0,3,1,2
+Surakunta,Alluri Sitharama Raju,CHINTOOR - 5062,Surakunta,0,0,3,3,0,0,0,3,0,0,2,1,0,0,3,3,0,3,0,1,3,0,4,2,2,2,2,4,0
+Surannagandi,Alluri Sitharama Raju,CHINTOOR - 5062,Surannagandi,0,0,5,3,2,0,0,3,2,0,3,2,0,0,5,5,0,5,0,0,5,0,5,2,3,1,4,1,4
+Tatilanka,Alluri Sitharama Raju,CHINTOOR - 5062,Tatilanka,0,0,1,1,0,0,0,1,0,0,0,1,0,1,0,1,0,1,0,0,1,0,1,1,0,1,0,0,1
+Tulugonda,Alluri Sitharama Raju,CHINTOOR - 5062,Tulugonda,0,0,3,3,0,0,0,3,0,0,0,3,0,0,2,3,0,3,0,0,4,0,4,4,0,0,4,0,4
+Tummala,Alluri Sitharama Raju,CHINTOOR - 5062,Tummala,1,0,5,3,3,0,0,3,3,0,2,4,0,0,6,6,0,6,0,3,3,0,6,4,2,2,4,3,3
+Ulumuru,Alluri Sitharama Raju,CHINTOOR - 5062,Ulumuru,0,0,6,5,1,0,0,4,3,0,5,1,0,0,5,6,0,7,0,2,5,0,7,6,1,0,7,0,7
+Vegithota,Alluri Sitharama Raju,CHINTOOR - 5062,Vegithota,0,0,1,1,0,0,0,2,0,0,0,1,0,0,0,1,0,2,0,0,2,0,2,1,1,1,1,2,0
+Venkatrampuram,Alluri Sitharama Raju,CHINTOOR - 5062,Venkatrampuram,0,0,3,2,1,0,0,1,2,0,0,3,0,0,3,3,0,3,0,0,3,0,3,3,0,3,0,3,0
+Yedugurallapalle,Alluri Sitharama Raju,CHINTOOR - 5062,Yedugurallapalle,0,0,6,3,2,1,0,2,5,1,1,3,0,0,5,5,0,6,0,0,7,0,7,5,2,4,3,4,3
+Yerrampeta,Alluri Sitharama Raju,CHINTOOR - 5062,Yerrampeta,0,0,9,6,3,0,0,4,5,0,4,2,0,0,5,5,0,9,0,0,10,1,9,8,2,6,3,4,6

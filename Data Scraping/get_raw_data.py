@@ -10,7 +10,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 
 # Setting up the log configuration
 logging.basicConfig(
-    filename='scraper.log',
+    filename='soil_health_scraper.log',
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s'
 )

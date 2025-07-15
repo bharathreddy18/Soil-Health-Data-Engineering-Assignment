@@ -1,0 +1,10 @@
+State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
+Amadaguntla,KURNOOL,KODUMUR - 5171,Amadaguntla,0,20,4,5,19,0,22,3,0,0,8,16,10,0,14,24,0,25,0,2,24,7,18,26,0,24,2,17,9
+Anugonda,KURNOOL,KODUMUR - 5171,Anugonda,0,18,4,1,20,1,19,3,0,0,12,10,5,0,17,18,4,22,0,13,9,6,16,22,0,21,1,21,1
+Gorantla,KURNOOL,KODUMUR - 5171,Gorantla,0,28,12,4,36,0,35,5,0,0,14,26,2,0,37,39,0,40,0,1,39,15,25,39,1,36,4,27,13
+Kodumur,KURNOOL,KODUMUR - 5171,Kodumur,4,92,30,10,108,8,105,21,0,1,52,73,14,1,111,121,5,125,1,71,55,44,82,125,1,116,10,95,31
+Laddagiri,KURNOOL,KODUMUR - 5171,Laddagiri,0,17,4,1,19,1,17,4,0,0,6,15,1,0,20,20,1,21,0,3,18,10,11,21,0,17,4,11,10
+Pulakurthy,KURNOOL,KODUMUR - 5171,Pulakurthy,0,37,10,4,40,3,42,5,0,0,13,34,2,0,45,41,6,47,0,15,32,17,30,47,0,44,3,38,9
+Pyalakurthy,KURNOOL,KODUMUR - 5171,Pyalakurthy,0,23,37,9,39,12,54,6,0,0,13,47,0,0,60,55,5,58,2,20,40,38,22,57,3,56,4,55,5
+Varkur,KURNOOL,KODUMUR - 5171,Varkur,0,31,10,5,33,3,35,6,0,0,11,30,8,0,33,41,0,41,0,6,35,14,27,41,0,39,2,30,11
+Yerradoddi,KURNOOL,KODUMUR - 5171,Yerradoddi,0,4,3,3,4,0,7,0,0,0,5,2,0,0,7,7,0,7,0,7,0,3,4,7,0,6,1,7,0

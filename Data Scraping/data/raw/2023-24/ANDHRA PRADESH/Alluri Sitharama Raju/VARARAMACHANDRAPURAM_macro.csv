@@ -1,0 +1,21 @@
+State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
+Buruguwada,Alluri Sitharama Raju,VARARAMACHANDRAPURAM - 5091,Buruguwada,0,4,0,1,2,1,0,1,3,0,0,4,0,0,4,4,0,1,3,3,1,3,1,4,0,1,3,1,3
+Chinnamattapalle,Alluri Sitharama Raju,VARARAMACHANDRAPURAM - 5091,Chinnamattapalle,0,3,10,9,4,0,0,4,9,1,4,8,0,0,13,13,0,12,1,1,12,0,13,13,0,3,10,1,12
+Darapalle,Alluri Sitharama Raju,VARARAMACHANDRAPURAM - 5091,Darapalle,0,3,2,2,1,2,0,5,0,0,5,0,0,0,5,5,0,5,0,0,5,0,5,5,0,0,5,3,2
+Gollagudem,Alluri Sitharama Raju,VARARAMACHANDRAPURAM - 5091,Gollagudem,0,6,8,12,1,1,0,12,2,0,11,3,0,0,14,14,0,14,0,0,14,0,12,14,0,6,8,0,14
+Gundugudem,Alluri Sitharama Raju,VARARAMACHANDRAPURAM - 5091,Gundugudem,0,0,1,1,0,0,0,0,1,0,1,0,0,0,1,1,0,1,0,0,1,0,1,1,0,0,1,0,1
+Isunuru,Alluri Sitharama Raju,VARARAMACHANDRAPURAM - 5091,Isunuru,0,0,1,1,0,0,0,0,1,0,0,1,0,0,1,1,0,0,1,1,0,0,1,1,0,1,0,1,0
+Jediguppa,Alluri Sitharama Raju,VARARAMACHANDRAPURAM - 5091,Jediguppa,1,0,0,1,0,0,0,1,0,0,0,1,0,0,1,1,0,0,1,1,0,0,1,1,0,1,0,1,0
+Koppalle,Alluri Sitharama Raju,VARARAMACHANDRAPURAM - 5091,Koppalle,0,6,9,14,1,0,0,13,2,1,6,8,0,0,14,15,0,15,0,0,15,0,15,15,0,4,11,0,15
+Kothapeta,Alluri Sitharama Raju,VARARAMACHANDRAPURAM - 5091,Kothapeta,0,0,2,1,1,0,0,0,2,0,0,1,0,0,1,1,0,1,1,1,1,0,2,2,0,1,1,1,1
+Mulakanapalle,Alluri Sitharama Raju,VARARAMACHANDRAPURAM - 5091,Mulakanapalle,0,1,6,2,5,0,0,1,6,0,0,7,0,0,7,7,0,5,2,2,5,2,5,7,0,2,5,2,5
+Mulkapalle,Alluri Sitharama Raju,VARARAMACHANDRAPURAM - 5091,Mulkapalle,0,1,0,1,0,0,0,1,0,0,0,1,0,0,1,1,0,0,1,1,0,1,0,1,0,1,0,1,0
+Peddamattapalle,Alluri Sitharama Raju,VARARAMACHANDRAPURAM - 5091,Peddamattapalle,1,1,15,12,5,0,0,7,10,0,3,14,1,0,16,17,0,17,0,2,15,0,17,17,0,5,12,2,15
+Rajupeta,Alluri Sitharama Raju,VARARAMACHANDRAPURAM - 5091,Rajupeta,0,1,0,1,0,0,0,1,0,0,1,0,0,0,1,1,0,0,1,1,0,0,1,1,0,1,0,1,0
+Rekapalle,Alluri Sitharama Raju,VARARAMACHANDRAPURAM - 5091,Rekapalle,0,1,9,10,0,0,0,7,3,0,0,10,0,0,9,9,0,9,1,4,6,1,9,9,1,5,5,2,8
+Somulagudem,Alluri Sitharama Raju,VARARAMACHANDRAPURAM - 5091,Somulagudem,0,2,1,3,0,0,1,1,1,0,2,1,0,0,3,3,0,0,3,3,0,3,0,3,0,2,1,3,0
+Tellamvari Gudem,Alluri Sitharama Raju,VARARAMACHANDRAPURAM - 5091,Tellamvari Gudem,0,0,1,1,0,0,0,1,0,0,1,0,0,0,1,1,0,1,0,0,1,0,1,1,0,0,1,0,1
+Thotapalle,Alluri Sitharama Raju,VARARAMACHANDRAPURAM - 5091,Thotapalle,0,2,10,11,1,0,0,9,3,0,7,3,0,0,10,10,0,10,2,3,10,1,11,8,5,12,0,2,11
+Ummadivaram,Alluri Sitharama Raju,VARARAMACHANDRAPURAM - 5091,Ummadivaram,0,0,6,5,1,0,0,5,1,0,1,4,0,0,4,4,0,7,0,0,8,0,7,8,0,7,0,0,8
+Venkampalem,Alluri Sitharama Raju,VARARAMACHANDRAPURAM - 5091,Venkampalem,0,1,1,2,0,0,0,0,2,0,1,1,0,0,2,2,0,0,2,2,0,2,0,2,0,2,0,2,0
+Verapapanikunta,Alluri Sitharama Raju,VARARAMACHANDRAPURAM - 5091,Verapapanikunta,0,0,2,2,0,0,0,1,1,0,2,0,0,0,2,2,0,2,0,0,3,0,2,3,0,0,2,0,3

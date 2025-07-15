@@ -1,0 +1,14 @@
+State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
+Akkireddigudem,Eluru,MUSUNURU - 5127,Akkireddigudem,0,1,26,2,23,2,6,21,0,0,2,25,0,0,27,25,2,6,21,27,0,17,10,27,0,27,0,16,11
+Balive,Eluru,MUSUNURU - 5127,Balive,0,0,26,1,3,22,5,21,0,0,1,25,0,0,26,26,0,9,17,20,6,19,7,26,0,24,2,9,17
+Chakkapalle,Eluru,MUSUNURU - 5127,Chakkapalle,0,1,26,3,5,18,16,9,2,0,3,24,0,0,27,25,2,23,4,2,25,22,5,26,1,27,0,2,25
+Chintalavalli,Eluru,MUSUNURU - 5127,Chintalavalli,1,1,25,14,10,3,18,2,7,3,6,18,0,0,27,24,3,24,3,5,22,24,3,27,0,26,1,4,23
+Gopavaram,Eluru,MUSUNURU - 5127,Gopavaram,0,3,49,18,26,7,49,3,0,6,5,41,0,0,52,52,0,50,2,12,40,39,13,51,1,52,0,16,36
+Gullapudi,Eluru,MUSUNURU - 5127,Gullapudi,0,0,55,30,15,10,50,2,3,0,3,52,0,0,55,55,0,29,26,21,34,34,21,55,0,54,1,44,11
+Katrenipadu,Eluru,MUSUNURU - 5127,Katrenipadu,0,0,26,19,3,3,14,9,3,0,0,26,1,0,25,25,1,25,1,3,23,18,8,26,0,26,0,7,19
+Korlagunta,Eluru,MUSUNURU - 5127,Korlagunta,0,0,26,20,5,1,18,2,6,1,3,22,0,0,26,26,0,15,11,6,20,26,0,26,0,24,0,9,17
+Lopudi,Eluru,MUSUNURU - 5127,Lopudi,0,0,26,10,4,12,15,1,10,1,2,23,0,0,26,26,0,13,13,6,20,26,0,26,0,25,0,19,7
+Musunuru,Eluru,MUSUNURU - 5127,Musunuru,1,0,54,35,9,11,44,4,7,4,3,48,0,1,54,55,0,29,26,42,13,38,16,55,0,55,0,46,9
+Ramanakkapeta,Eluru,MUSUNURU - 5127,Ramanakkapeta,1,0,25,25,1,0,22,0,4,1,6,19,0,0,26,25,1,6,20,26,0,26,0,26,0,26,0,26,0
+Surepalle,Eluru,MUSUNURU - 5127,Surepalle,0,1,27,16,6,6,17,2,9,3,4,21,0,0,28,28,0,16,12,23,5,26,2,28,0,28,0,25,3
+Velpucherla,Eluru,MUSUNURU - 5127,Velpucherla,0,0,30,25,4,1,23,0,7,2,5,23,0,0,30,30,0,15,15,27,3,19,11,30,0,30,0,29,1

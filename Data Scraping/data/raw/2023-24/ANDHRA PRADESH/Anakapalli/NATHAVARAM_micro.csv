@@ -1,0 +1,23 @@
+State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
+Adivikamayya Agraharam,Anakapalli,NATHAVARAM - 5608,Adivikamayya Agraharam,0,2,8,9,1,0,8,2,0,0,2,8,1,0,9,10,0,7,3,3,7,2,8,6,4,10,0,7,3
+Anantha Padmanabhapuram,Anakapalli,NATHAVARAM - 5608,Anantha Padmanabhapuram,0,2,0,2,0,0,1,1,0,0,2,0,0,0,2,2,0,2,0,2,0,0,2,2,0,2,0,2,0
+Chammachinta,Anakapalli,NATHAVARAM - 5608,Chammachinta,2,10,14,26,0,0,23,2,1,2,10,14,0,1,25,26,0,26,0,2,24,2,24,2,24,26,0,5,21
+Cherlopalem,Anakapalli,NATHAVARAM - 5608,Cherlopalem,5,9,27,38,3,0,41,0,0,4,9,28,0,0,41,41,0,41,0,9,32,6,35,8,33,41,0,13,28
+China Jaggampeta,Anakapalli,NATHAVARAM - 5608,China Jaggampeta,0,0,4,4,0,0,4,0,0,0,0,4,2,0,2,4,0,4,0,0,4,0,4,4,0,4,0,3,1
+Dharmavaram Agraharam,Anakapalli,NATHAVARAM - 5608,Dharmavaram Agraharam,0,0,3,3,0,0,2,1,0,0,0,3,0,0,3,3,0,3,0,2,1,1,2,3,0,3,0,3,0
+Gannavaram,Anakapalli,NATHAVARAM - 5608,Gannavaram,1,5,23,7,22,0,29,0,0,1,5,23,0,0,29,29,0,29,0,2,27,7,22,13,16,29,0,19,10
+Golugondapeta,Anakapalli,NATHAVARAM - 5608,Golugondapeta,1,0,1,1,0,1,2,0,0,1,0,1,1,0,1,2,0,2,0,0,2,1,1,1,1,2,0,2,0
+Gummidigonda,Anakapalli,NATHAVARAM - 5608,Gummidigonda,1,8,15,20,4,0,24,0,0,1,7,16,1,0,23,24,0,24,0,19,5,5,19,24,0,24,0,18,4
+Gunupudi,Anakapalli,NATHAVARAM - 5608,Gunupudi,6,13,21,33,6,1,38,1,1,6,15,19,4,0,36,40,0,39,1,6,34,6,34,18,22,40,0,21,19
+Mallubhupala Patnam,Anakapalli,NATHAVARAM - 5608,Mallubhupala Patnam,7,13,24,30,14,0,42,1,1,7,15,22,2,1,41,44,0,43,1,44,0,9,35,44,0,44,0,42,2
+Manyapuratla,Anakapalli,NATHAVARAM - 5608,Manyapuratla,6,8,30,25,19,0,37,6,1,7,9,28,0,0,44,44,0,44,0,31,13,9,35,35,9,44,0,42,2
+Mulagapudi Bennavaram,Anakapalli,NATHAVARAM - 5608,Mulagapudi Bennavaram,6,9,19,31,1,2,25,9,0,6,9,19,0,0,34,34,0,34,0,7,27,8,26,34,0,34,0,32,2
+Nathavaram,Anakapalli,NATHAVARAM - 5608,Nathavaram,7,6,22,32,3,1,22,13,0,7,5,23,4,0,31,35,0,35,0,12,23,2,33,32,3,35,0,17,18
+Pichchiganti Kothagudam,Anakapalli,NATHAVARAM - 5608,Pichchiganti Kothagudam,5,2,32,36,3,0,36,3,0,3,3,33,2,1,36,39,0,39,0,29,10,9,30,34,5,39,0,36,3
+Rajupeta Agraharam,Anakapalli,NATHAVARAM - 5608,Rajupeta Agraharam,0,1,0,1,0,0,1,0,0,0,0,1,0,0,1,1,0,1,0,1,0,1,0,1,0,1,0,1,0
+Sarugudu,Anakapalli,NATHAVARAM - 5608,Sarugudu,5,4,29,38,0,0,34,4,0,5,4,29,0,0,38,38,0,38,0,6,32,2,36,36,2,38,0,37,1
+Srungavaram,Anakapalli,NATHAVARAM - 5608,Srungavaram,5,7,27,31,8,0,35,4,0,6,6,27,0,0,39,39,0,39,0,36,3,16,23,38,1,39,0,39,0
+Valasampeta,Anakapalli,NATHAVARAM - 5608,Valasampeta,2,5,18,20,3,2,24,1,0,2,4,19,0,0,25,25,0,24,1,6,19,10,15,17,8,25,0,23,2
+Vedurupalle,Anakapalli,NATHAVARAM - 5608,Vedurupalle,5,4,3,12,0,0,7,5,0,5,4,3,0,0,12,12,0,12,0,9,3,0,12,11,1,12,0,7,2
+Yellavaram Dondapeta,Anakapalli,NATHAVARAM - 5608,Yellavaram Dondapeta,5,5,24,33,1,0,33,1,0,5,5,24,0,0,34,34,0,33,1,11,23,6,28,34,0,34,0,34,0
+Zilledipudi,Anakapalli,NATHAVARAM - 5608,Zilledipudi,10,14,11,31,4,0,34,1,0,12,13,10,4,0,31,35,0,35,0,32,3,2,33,33,2,35,0,31,2

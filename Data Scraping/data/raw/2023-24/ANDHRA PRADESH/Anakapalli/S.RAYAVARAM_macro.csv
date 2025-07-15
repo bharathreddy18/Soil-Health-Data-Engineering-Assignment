@@ -1,0 +1,14 @@
+State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
+Chinagummuluru,Anakapalli,S.RAYAVARAM - 5619,Chinagummuluru,3,1,1,2,2,1,1,3,1,3,2,0,0,0,5,5,0,5,0,5,0,2,3,5,0,4,1,5,0
+Dharmavaram Agraharam,Anakapalli,S.RAYAVARAM - 5619,Dharmavaram Agraharam,1,3,7,4,3,4,3,6,2,3,2,6,0,0,11,10,1,11,0,11,0,8,3,10,1,5,6,5,6
+Gudivada,Anakapalli,S.RAYAVARAM - 5619,Gudivada,2,16,18,1,17,18,29,6,1,1,14,21,0,4,32,15,21,36,0,36,0,16,20,35,1,21,15,32,4
+Janguluruvelampalem,Anakapalli,S.RAYAVARAM - 5619,Janguluruvelampalem,4,11,19,18,8,8,24,9,1,6,11,17,1,0,33,30,4,33,1,34,0,34,0,34,0,32,2,34,0
+Koruprolu,Anakapalli,S.RAYAVARAM - 5619,Koruprolu,27,16,67,64,20,26,90,19,1,28,21,61,0,1,109,107,3,95,15,108,2,73,37,102,8,98,12,94,16
+Lingarajupalem,Anakapalli,S.RAYAVARAM - 5619,Lingarajupalem,0,7,1,7,1,0,7,0,1,2,5,1,0,0,8,8,0,5,3,8,0,8,0,8,0,8,0,7,1
+Peda Uppalam,Anakapalli,S.RAYAVARAM - 5619,Peda Uppalam,2,2,19,9,2,12,19,3,1,3,3,17,0,0,23,23,0,21,2,22,1,16,7,23,0,12,11,23,0
+Pedagummuluru,Anakapalli,S.RAYAVARAM - 5619,Pedagummuluru,2,1,3,1,2,3,5,1,0,2,1,3,0,0,6,6,0,6,0,6,0,6,0,6,0,1,5,2,4
+Petasudipuram,Anakapalli,S.RAYAVARAM - 5619,Petasudipuram,11,8,14,19,7,7,27,4,2,12,7,14,1,0,32,33,0,32,1,31,2,18,14,33,0,33,0,30,3
+Pettugollapalle,Anakapalli,S.RAYAVARAM - 5619,Pettugollapalle,0,0,3,1,2,0,1,2,0,0,0,3,0,0,3,3,0,3,0,3,0,2,1,1,2,1,2,3,0
+S.Rayavaram,Anakapalli,S.RAYAVARAM - 5619,S.Rayavaram,4,9,13,18,3,5,23,2,1,5,9,12,0,0,26,26,0,21,5,26,0,24,2,26,0,24,2,26,0
+Sarvasiddi,Anakapalli,S.RAYAVARAM - 5619,Sarvasiddi,0,3,6,2,7,0,3,4,2,0,5,4,0,0,9,9,0,9,0,9,0,5,4,9,0,8,1,3,6
+Thimmapuram,Anakapalli,S.RAYAVARAM - 5619,Thimmapuram,3,4,3,0,2,8,3,7,0,5,1,4,0,0,10,10,0,10,0,10,0,5,5,9,1,2,8,9,1

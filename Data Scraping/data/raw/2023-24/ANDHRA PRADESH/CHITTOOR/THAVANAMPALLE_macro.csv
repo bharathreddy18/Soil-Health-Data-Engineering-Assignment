@@ -1,0 +1,24 @@
+State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
+Aragonda,CHITTOOR,THAVANAMPALLE - 4802,Aragonda,0,4,30,1,15,18,11,19,4,0,4,30,1,0,33,34,0,32,2,23,11,20,14,33,0,31,3,32,2
+Cherlopalle,CHITTOOR,THAVANAMPALLE - 4802,Cherlopalle,0,14,16,19,6,5,15,12,3,1,12,17,0,0,30,30,0,22,8,25,5,22,8,29,1,27,3,28,2
+Diguva Magham,CHITTOOR,THAVANAMPALLE - 4802,Diguva Magham,0,13,16,6,13,10,13,15,1,2,12,15,0,0,29,29,0,23,6,20,9,22,7,26,3,26,3,26,3
+Diguva Thadakara,CHITTOOR,THAVANAMPALLE - 4802,Diguva Thadakara,0,0,3,3,0,0,0,2,1,0,0,3,0,0,3,3,0,1,2,2,1,1,2,3,0,3,0,3,0
+Eachaneri,CHITTOOR,THAVANAMPALLE - 4802,Eachaneri,0,6,9,10,4,1,3,7,5,0,6,9,0,0,15,15,0,12,3,13,2,11,4,14,1,14,1,15,0
+Eguva Thadakara,CHITTOOR,THAVANAMPALLE - 4802,Eguva Thadakara,0,10,27,5,12,20,12,19,6,3,7,27,0,1,36,37,0,35,2,24,13,27,10,37,0,35,2,34,3
+Gandupalle,CHITTOOR,THAVANAMPALLE - 4802,Gandupalle,0,1,3,1,1,2,1,3,0,0,1,3,0,0,4,4,0,4,0,4,0,2,2,4,0,4,0,4,0
+Govindareddipalle,CHITTOOR,THAVANAMPALLE - 4802,Govindareddipalle,0,9,12,0,7,14,11,9,1,0,9,12,0,0,21,21,0,16,5,19,2,17,4,21,0,20,1,18,3
+Gurukavaripalle,CHITTOOR,THAVANAMPALLE - 4802,Gurukavaripalle,0,5,6,0,5,6,6,5,0,0,5,6,0,0,11,11,0,9,2,8,3,8,3,11,0,10,1,11,0
+Kattakindapalle,CHITTOOR,THAVANAMPALLE - 4802,Kattakindapalle,0,1,4,0,4,1,1,4,0,0,1,4,0,0,5,5,0,5,0,4,1,3,2,5,0,4,1,5,0
+Madhavaram,CHITTOOR,THAVANAMPALLE - 4802,Madhavaram,0,7,22,6,11,12,18,10,1,1,6,22,0,0,29,29,0,28,1,19,10,19,10,29,0,25,4,26,3
+Mallakunta,CHITTOOR,THAVANAMPALLE - 4802,Mallakunta,0,1,1,0,0,2,2,0,0,0,1,1,0,0,2,2,0,2,0,2,0,1,1,2,0,2,0,2,0
+Mathyam,CHITTOOR,THAVANAMPALLE - 4802,Mathyam,0,0,3,1,2,0,1,0,2,0,0,3,0,0,3,3,0,3,0,3,0,1,2,3,0,3,0,3,0
+Muthukur,CHITTOOR,THAVANAMPALLE - 4802,Muthukur,0,11,22,4,14,15,17,15,1,2,9,22,0,0,33,33,0,30,3,20,13,26,7,33,0,29,4,31,2
+Nalisettipalle,CHITTOOR,THAVANAMPALLE - 4802,Nalisettipalle,0,11,15,6,13,7,6,19,1,1,11,14,0,0,26,26,0,23,3,18,8,19,7,23,2,24,2,23,3
+Paimagham,CHITTOOR,THAVANAMPALLE - 4802,Paimagham,0,16,15,15,11,5,13,16,2,2,14,15,0,0,31,31,0,22,9,16,15,25,6,31,0,27,4,27,4
+Pallecheruvu,CHITTOOR,THAVANAMPALLE - 4802,Pallecheruvu,0,8,21,9,18,2,3,22,4,0,8,21,0,0,29,29,0,21,8,23,6,15,14,29,0,25,4,26,3
+Patnam,CHITTOOR,THAVANAMPALLE - 4802,Patnam,0,12,21,8,16,9,7,21,5,0,14,19,0,0,33,33,0,33,0,22,11,24,9,33,0,32,1,31,2
+Punya Samudram,CHITTOOR,THAVANAMPALLE - 4802,Punya Samudram,0,12,17,16,11,2,9,19,1,5,7,17,1,0,28,29,0,20,9,20,9,23,6,24,4,28,1,28,1
+Sarakallu,CHITTOOR,THAVANAMPALLE - 4802,Sarakallu,0,7,12,0,6,13,9,7,3,0,7,12,0,0,19,19,0,18,1,14,5,16,3,18,1,18,1,16,3
+Thavanampalle,CHITTOOR,THAVANAMPALLE - 4802,Thavanampalle,0,13,45,31,13,14,16,32,10,1,10,47,3,1,54,58,0,46,12,39,19,43,15,53,5,51,7,52,6
+Thavanampalle Puttur,CHITTOOR,THAVANAMPALLE - 4802,Thavanampalle Puttur,0,12,20,14,15,3,10,20,2,2,11,19,0,0,32,32,0,26,6,24,8,26,6,31,1,28,4,29,3
+Uthara Brahmanapalle,CHITTOOR,THAVANAMPALLE - 4802,Uthara Brahmanapalle,0,1,3,1,1,2,1,2,1,0,2,2,0,0,4,4,0,4,0,4,0,3,1,4,0,4,0,2,2

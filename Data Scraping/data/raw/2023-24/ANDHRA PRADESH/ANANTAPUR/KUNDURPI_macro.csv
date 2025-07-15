@@ -1,0 +1,11 @@
+State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
+Appilepalle,ANANTAPUR,KUNDURPI - 4716,Appilepalle,0,0,20,9,11,0,16,4,0,0,0,20,0,0,20,20,0,18,2,15,5,14,6,20,0,16,4,17,3
+Basapuram,ANANTAPUR,KUNDURPI - 4716,Basapuram,0,0,48,44,4,0,34,14,0,0,3,45,0,0,48,48,0,47,1,16,32,35,13,48,0,13,35,48,0
+Bestharapalle,ANANTAPUR,KUNDURPI - 4716,Bestharapalle,0,0,44,36,8,0,33,11,0,0,0,44,0,0,44,44,0,42,2,34,10,29,15,44,0,20,24,43,1
+Jambugumpala,ANANTAPUR,KUNDURPI - 4716,Jambugumpala,0,0,24,21,3,0,15,9,0,0,0,24,0,0,24,24,0,22,2,18,6,17,7,24,0,16,8,24,0
+Kariganipalle,ANANTAPUR,KUNDURPI - 4716,Kariganipalle,0,0,33,25,8,0,12,21,0,0,0,33,0,0,33,33,0,33,0,19,14,23,10,33,0,25,8,33,0
+Kundurpi,ANANTAPUR,KUNDURPI - 4716,Kundurpi,0,1,90,63,28,0,52,38,1,0,1,90,0,0,91,91,0,87,4,48,43,58,33,91,0,50,41,86,5
+Malayanur,ANANTAPUR,KUNDURPI - 4716,Malayanur,0,1,43,25,19,0,30,12,2,0,2,42,0,0,44,44,0,40,4,33,11,27,17,44,0,27,17,42,2
+Nijavalli,ANANTAPUR,KUNDURPI - 4716,Nijavalli,0,0,26,21,5,0,18,8,0,0,0,26,0,0,26,26,0,26,0,15,11,16,10,26,0,18,8,26,0
+S.Mallapuram,ANANTAPUR,KUNDURPI - 4716,S.Mallapuram,0,0,4,2,2,0,3,1,0,0,0,4,0,0,4,4,0,4,0,2,2,3,1,4,0,3,1,4,0
+Yenumaladoddi,ANANTAPUR,KUNDURPI - 4716,Yenumaladoddi,0,1,22,12,11,0,18,5,0,0,2,21,0,0,23,23,0,21,2,8,15,18,5,23,0,17,6,23,0

@@ -1,0 +1,8 @@
+State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
+Ananthavaram,Bapatla,YDDANA PUDI - 5507,Ananthavaram,0,1,22,0,6,17,23,0,0,0,0,23,0,0,23,23,0,16,7,1,20,3,20,22,1,15,8,11,12
+Enamadala,Bapatla,YDDANA PUDI - 5507,Enamadala,0,0,3,0,3,0,3,0,0,0,0,3,0,0,3,3,0,3,0,0,0,0,3,3,0,3,0,3,0
+Gannavaram,Bapatla,YDDANA PUDI - 5507,Gannavaram,0,0,16,0,2,14,16,0,0,0,0,16,0,0,16,14,2,15,1,5,9,9,7,15,1,13,3,10,6
+Jagarlamudi,Bapatla,YDDANA PUDI - 5507,Jagarlamudi,0,0,18,0,3,15,17,1,0,0,0,18,0,0,18,16,2,13,5,0,18,9,9,18,0,7,11,10,8
+Poluru,Bapatla,YDDANA PUDI - 5507,Poluru,0,0,38,0,9,29,30,5,3,0,0,38,0,0,38,33,5,26,12,1,37,10,28,38,0,18,20,24,14
+Punuru,Bapatla,YDDANA PUDI - 5507,Punuru,0,0,35,0,3,32,35,0,0,0,0,35,0,0,35,31,4,28,7,14,19,8,27,35,0,30,5,29,6
+Yeddanapudi,Bapatla,YDDANA PUDI - 5507,Yeddanapudi,0,0,37,0,1,36,34,3,0,0,0,37,2,0,35,34,3,32,5,0,36,13,24,37,0,12,25,19,18

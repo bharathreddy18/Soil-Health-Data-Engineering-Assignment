@@ -1,0 +1,12 @@
+State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
+Ankalampadu,Eluru,KAMAVARAPUKOTA - 5726,Ankalampadu,0,4,22,26,0,0,12,12,2,2,3,21,0,4,22,26,0,24,2,26,0,7,19,24,2,23,3,26,0
+Edavalli,Eluru,KAMAVARAPUKOTA - 5726,Edavalli,0,0,24,21,2,1,1,11,12,0,2,22,0,0,24,24,0,24,0,24,0,4,20,24,0,20,4,22,2
+Guntupalle,Eluru,KAMAVARAPUKOTA - 5726,Guntupalle,0,0,25,16,4,5,2,9,14,0,14,11,0,0,25,25,0,22,3,12,13,22,3,25,0,19,6,4,21
+Kallacheruvu,Eluru,KAMAVARAPUKOTA - 5726,Kallacheruvu,0,8,17,20,2,3,10,8,7,1,8,16,0,0,25,25,0,21,4,24,1,19,6,25,0,22,3,25,0
+Kamavarapukota,Eluru,KAMAVARAPUKOTA - 5726,Kamavarapukota,0,19,79,77,12,9,31,43,24,8,32,58,1,5,92,96,2,92,6,79,19,55,43,94,4,88,10,79,19
+Khandrika Seetharamavaram,Eluru,KAMAVARAPUKOTA - 5726,Khandrika Seetharamavaram,1,1,25,18,8,1,17,5,5,1,6,20,0,0,27,26,1,21,6,26,1,22,5,26,1,16,11,24,3
+Mankenapalle,Eluru,KAMAVARAPUKOTA - 5726,Mankenapalle,0,1,0,0,0,1,0,1,0,0,0,1,0,0,1,1,0,0,1,1,0,1,0,1,0,0,1,1,0
+Ravikampadu,Eluru,KAMAVARAPUKOTA - 5726,Ravikampadu,0,5,20,25,0,0,18,4,3,2,5,18,0,0,25,25,0,25,0,24,1,6,19,25,0,23,2,23,2
+Sayanaraopalem,Eluru,KAMAVARAPUKOTA - 5726,Sayanaraopalem,0,0,3,3,0,0,1,1,1,0,0,3,0,0,3,3,0,3,0,3,0,0,3,3,0,2,1,3,0
+Tadikalapudi,Eluru,KAMAVARAPUKOTA - 5726,Tadikalapudi,0,21,108,115,10,4,38,81,10,7,31,91,0,3,126,129,0,102,27,105,24,37,92,129,0,123,6,120,9
+Uppalapadu,Eluru,KAMAVARAPUKOTA - 5726,Uppalapadu,0,8,18,26,0,0,4,20,2,2,7,17,0,2,24,26,0,26,0,26,0,16,10,24,2,26,0,26,0
