@@ -1,6 +1,0 @@
-State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
-Kalidindi,Eluru,KALIDINDI - 5117,Kalidindi,0,1,17,4,6,8,0,17,1,0,12,6,0,0,18,3,15,17,1,18,0,14,4,17,1,18,0,16,2
-Kollapalem,Eluru,KALIDINDI - 5117,Kollapalem,0,0,12,3,5,4,0,5,7,1,7,4,0,0,12,8,4,12,0,10,2,12,0,12,0,12,0,12,0
-Korukollu,Eluru,KALIDINDI - 5117,Korukollu,0,0,31,7,13,11,3,24,4,1,17,13,0,0,31,7,24,30,1,20,11,17,14,31,0,29,2,4,27
-Sana Rudravaram,Eluru,KALIDINDI - 5117,Sana Rudravaram,0,2,22,4,8,12,5,14,5,1,12,11,0,0,24,24,0,24,0,23,1,15,9,23,1,24,0,19,5
-Venkatapuram,Eluru,KALIDINDI - 5117,Venkatapuram,0,3,29,9,9,14,6,20,6,0,8,24,1,0,31,32,0,32,0,28,4,19,13,32,0,32,0,18,14

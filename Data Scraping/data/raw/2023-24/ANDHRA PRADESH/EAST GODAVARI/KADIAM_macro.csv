@@ -1,8 +1,0 @@
-State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
-Damireddipalle,EAST GODAVARI,KADIAM - 4881,Damireddipalle,0,28,1,2,25,2,2,26,1,1,25,3,0,0,29,29,0,29,0,27,2,28,1,28,1,28,1,28,1
-Dulla,EAST GODAVARI,KADIAM - 4881,Dulla,0,40,1,22,18,1,22,19,0,4,35,2,0,0,41,40,0,40,1,32,9,37,4,38,3,39,2,38,3
-Jegurupadu,EAST GODAVARI,KADIAM - 4881,Jegurupadu,0,69,2,2,61,8,35,36,0,2,64,5,0,0,71,71,0,71,0,68,3,68,3,71,0,68,3,68,3
-Kadiam,EAST GODAVARI,KADIAM - 4881,Kadiam,0,157,4,35,118,8,57,104,0,6,153,2,1,1,159,161,0,161,0,156,5,158,3,158,0,156,5,159,2
-Muramanda,EAST GODAVARI,KADIAM - 4881,Muramanda,0,49,2,0,47,4,4,46,1,0,51,0,0,0,51,51,0,50,0,51,0,51,0,49,0,51,0,51,0
-Veeravaram,EAST GODAVARI,KADIAM - 4881,Veeravaram,1,51,3,2,49,4,29,26,0,5,47,3,0,0,55,54,1,54,1,48,7,52,3,50,3,52,3,52,3
-Vemagiri,EAST GODAVARI,KADIAM - 4881,Vemagiri,0,42,4,0,44,2,17,29,0,1,37,8,0,0,46,46,0,46,0,36,10,37,9,43,0,37,9,36,10

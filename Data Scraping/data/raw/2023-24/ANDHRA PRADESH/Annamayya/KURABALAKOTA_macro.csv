@@ -1,7 +1,0 @@
-State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
-Angallu,Annamayya,KURABALAKOTA - 4769,Angallu,0,13,140,110,22,21,61,86,6,1,4,148,0,0,153,153,0,69,84,29,124,98,55,137,9,51,102,98,55
-Kurabalakota,Annamayya,KURABALAKOTA - 4769,Kurabalakota,1,10,223,160,43,31,111,121,2,5,3,226,1,0,233,234,0,123,111,106,128,171,63,228,1,73,161,191,43
-Matlivaripalle,Annamayya,KURABALAKOTA - 4769,Matlivaripalle,0,7,41,32,10,6,16,32,0,0,1,47,0,0,48,48,0,19,29,6,42,28,20,43,5,17,31,30,18
-Mudivedu,Annamayya,KURABALAKOTA - 4769,Mudivedu,0,5,133,97,22,19,55,79,4,0,1,137,0,0,138,138,0,49,89,38,100,108,30,124,9,57,81,97,41
-Pitchalavandla Palle,Annamayya,KURABALAKOTA - 4769,Pitchalavandla Palle,0,7,79,36,27,23,28,56,2,0,0,86,0,0,86,86,0,31,55,22,64,64,21,84,2,35,51,65,20
-Thettu,Annamayya,KURABALAKOTA - 4769,Thettu,1,10,131,95,31,16,62,77,3,1,1,140,0,0,142,141,1,50,92,20,122,108,34,136,5,46,96,100,41

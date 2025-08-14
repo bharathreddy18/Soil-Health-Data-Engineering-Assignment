@@ -1,0 +1,50 @@
+cycle,state,district,block,village,n_High,n_Low,n_Medium,p_High,p_Low,p_Medium,k_High,k_Low,k_Medium,S_Sufficient,S_Deficient,OC_High,OC_Low,OC_Medium,pH_Alkaline,pH_Acidic,pH_Neutral,EC_Saline,EC_NonSaline,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Pedda Seetanapalle,1,4,1,4,0,2,0,3,3,6,0,0,4,2,0,0,6,0,6,3,3,0,6,6,0,2,4,6,0
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Tummala,1,5,0,3,0,3,0,3,3,6,0,0,4,2,0,0,6,0,6,3,3,0,6,4,2,2,4,3,3
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Narsingapeta,0,4,1,4,0,1,0,1,4,5,0,1,2,2,0,0,5,0,5,1,4,0,5,5,0,5,0,4,1
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Kalleru,0,7,2,4,0,5,0,5,4,8,1,0,7,2,0,1,8,0,9,3,6,2,7,8,1,4,5,6,3
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Ramannapalem,0,5,0,4,0,1,0,4,1,4,1,0,2,3,0,0,5,0,5,4,1,1,4,1,4,4,1,5,0
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Agraharapu Koderu,1,7,1,7,0,2,0,3,6,8,1,0,5,4,0,0,9,0,9,3,6,0,9,9,0,3,6,5,4
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Chatti,0,24,2,16,0,10,0,13,13,26,0,1,16,9,0,0,26,0,26,9,17,0,26,21,5,11,15,24,2
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Boddugudem,0,5,0,3,0,2,0,3,2,5,0,0,4,1,0,0,5,0,4,2,3,0,5,5,0,3,2,4,1
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Alligudem,0,7,0,5,0,2,0,3,4,7,0,1,3,3,0,0,7,0,7,2,5,1,6,5,2,7,0,6,1
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Balimela,0,1,0,1,0,0,0,0,1,1,0,0,0,1,0,0,1,0,1,0,1,0,1,0,1,0,1,1,0
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Chidumurum,0,3,0,3,0,0,0,2,1,3,0,0,2,1,0,0,3,0,3,3,0,0,3,1,2,1,2,3,0
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Burakanakota,0,17,0,12,0,5,0,6,11,17,0,0,16,1,0,0,17,0,17,7,10,0,17,8,9,7,10,16,1
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Kannayagudem,0,2,0,2,0,0,0,0,2,2,0,0,1,1,0,0,2,0,2,1,1,0,2,2,0,0,2,1,1
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Chinna Seethannapalle,0,2,0,0,0,2,0,2,0,2,0,0,1,1,0,0,2,0,2,1,1,0,2,2,0,2,0,2,0
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Kolthuru,0,4,0,4,0,0,0,0,4,4,0,0,2,2,0,0,4,0,4,3,1,0,4,0,4,1,3,4,0
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Tulugonda,0,3,0,3,0,0,0,0,3,3,0,0,3,0,0,0,2,0,3,0,4,0,4,4,0,0,4,0,4
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Gondigudem,0,0,1,1,0,0,0,0,1,1,0,0,1,0,0,0,1,0,1,0,3,0,3,4,0,1,0,4,0
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Nelakota,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,3,0,0,2,1,2
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Devarapalle,0,3,0,2,0,2,0,4,0,5,0,0,0,2,0,1,1,0,2,0,5,0,5,5,0,3,2,3,2
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Stafordpeta,0,3,0,2,0,1,0,1,2,3,0,1,2,0,0,0,3,0,3,0,3,0,3,1,2,0,3,1,2
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Yerrampeta,0,9,0,6,0,3,0,5,4,9,0,0,2,4,0,0,5,0,5,0,10,1,9,8,2,6,3,4,6
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Mallethota,0,5,0,4,0,2,0,3,3,7,0,0,0,4,0,0,4,0,4,1,6,0,7,7,0,0,7,1,6
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Ganganametta,0,5,0,3,0,2,0,2,3,5,0,1,1,3,0,3,2,0,5,0,5,0,5,2,3,0,5,0,5
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Pega,0,2,0,2,0,0,0,2,0,2,0,0,2,0,0,0,2,0,2,2,0,0,2,0,2,1,1,2,0
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Irkampeta,0,3,0,4,0,0,0,0,4,4,0,0,2,1,0,0,3,0,3,0,4,0,4,0,4,0,4,0,4
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Surakunta,0,3,0,3,0,0,0,0,3,3,0,0,1,2,0,0,3,0,3,1,3,0,4,2,2,2,2,4,0
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Narakonda,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,1,0
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Mothugudem,0,20,0,13,0,7,0,8,12,20,0,0,8,12,0,3,17,0,20,0,20,0,20,12,8,0,20,5,15
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Guduru,0,4,0,1,1,2,0,4,1,5,0,0,1,2,0,0,1,0,2,1,4,1,4,4,1,4,1,0,5
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Surannagandi,0,5,0,3,0,2,0,2,3,5,0,0,2,3,0,0,5,0,5,0,5,0,5,2,3,1,4,1,4
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Madugur,0,3,0,2,0,1,0,1,2,3,0,0,2,1,0,0,3,0,3,0,3,0,3,0,3,0,3,1,2
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Kuyuguru,0,2,1,2,0,1,0,1,2,3,0,0,3,0,0,0,3,0,3,0,3,0,3,2,1,2,1,1,2
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Ratnapuram,0,2,0,0,0,2,0,2,0,2,0,0,1,1,0,0,1,0,1,1,1,0,2,2,0,0,2,1,1
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Pothanapalle,0,3,0,3,0,0,0,0,3,3,0,0,1,2,0,0,3,0,3,2,1,0,2,3,0,1,2,3,0
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Chintur,0,3,0,2,0,1,0,2,1,3,0,0,3,0,0,0,3,0,3,0,3,0,3,3,0,0,3,2,1
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Vegithota,0,1,0,1,0,0,0,0,2,2,0,0,1,0,0,0,0,0,1,0,2,0,2,1,1,1,1,2,0
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Ulumuru,0,6,0,5,0,1,0,3,4,7,0,0,1,5,0,0,5,0,6,2,5,0,7,6,1,0,7,0,7
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Narayanapuram,0,3,0,2,0,1,0,1,2,3,0,0,3,0,0,0,2,0,3,0,3,0,3,3,0,0,3,2,1
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Venkatrampuram,0,3,0,2,0,1,0,2,1,3,0,0,3,0,0,0,3,0,3,0,3,0,3,3,0,3,0,3,0
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Sarivela,0,3,0,1,0,2,0,2,1,3,0,0,3,0,0,0,3,0,3,0,3,0,3,3,0,2,1,1,2
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Lachigudem,0,3,0,3,0,0,0,0,3,3,0,0,3,0,0,0,3,0,3,0,3,0,3,2,1,2,1,3,0
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Mallampeta,0,1,0,1,0,0,0,0,2,2,0,0,1,0,0,0,1,0,1,1,1,0,2,2,0,0,2,1,1
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Lakkavaram,0,15,0,7,0,8,0,7,8,15,0,1,9,5,0,0,15,0,15,11,4,2,13,5,10,10,5,13,2
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Tatilanka,0,1,0,1,0,0,0,0,1,1,0,0,1,0,0,1,0,0,1,0,1,0,1,1,0,1,0,0,1
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Yedugurallapalle,0,6,0,3,1,2,0,5,2,6,0,1,3,1,0,0,5,0,5,0,7,0,7,5,2,4,3,4,3
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Katukapalle,0,4,0,3,0,1,0,1,3,4,0,0,3,1,0,0,4,0,4,1,3,0,4,2,2,1,3,3,1
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Mittavada,0,5,0,3,0,2,0,2,3,5,0,0,5,0,0,1,4,0,5,4,1,0,5,2,3,2,3,4,1
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Kummuru,0,3,0,3,0,0,0,1,2,3,0,0,3,0,0,0,3,0,3,0,3,0,3,3,0,0,3,2,1
+2023-24,ANDHRA PRADESH,Alluri Sitharama Raju,CHINTOOR - 5062,Maddigudem,0,1,0,0,0,1,0,1,0,1,0,0,1,0,0,0,1,0,1,0,1,0,1,0,1,0,1,1,0

@@ -1,7 +1,0 @@
-State,District,Block,Village,n_High,n_Medium,n_Low,p_High,p_Medium,p_Low,k_High,k_Medium,k_Low,OC_High,OC_Medium,OC_Low,pH_Alkaline,pH_Acidic,pH_Neutral,EC_NonSaline,EC_Saline,S_Sufficient,S_Deficient,Fe_Sufficient,Fe_Deficient,Zn_Sufficient,Zn_Deficient,Cu_Sufficient,Cu_Deficient,B_Sufficient,B_Deficient,Mn_Sufficient,Mn_Deficient
-Allur,Bapatla,PITTALAVANIPALEM - 4962,Allur,0,3,29,0,2,30,21,11,0,0,0,32,0,0,32,32,0,29,3,4,28,8,24,31,1,23,9,27,5
-Chandole,Bapatla,PITTALAVANIPALEM - 4962,Chandole,0,21,42,1,15,47,42,21,0,0,13,50,0,0,63,52,11,50,13,62,1,38,25,56,7,49,14,58,5
-Khajipalem,Bapatla,PITTALAVANIPALEM - 4962,Khajipalem,1,12,23,0,6,30,25,9,2,1,8,27,0,0,36,16,20,29,7,32,4,9,27,32,4,26,10,35,1
-Komali,Bapatla,PITTALAVANIPALEM - 4962,Komali,0,1,32,0,3,30,21,11,1,0,12,21,0,0,33,9,24,25,8,25,8,27,5,33,0,31,2,33,0
-Pittalavanipalem,Bapatla,PITTALAVANIPALEM - 4962,Pittalavanipalem,0,27,151,0,23,155,85,78,15,1,20,157,0,0,178,141,37,140,38,132,46,111,67,164,14,120,58,129,49
-Sangupalem Kodur,Bapatla,PITTALAVANIPALEM - 4962,Sangupalem Kodur,2,17,12,0,2,29,22,9,0,1,16,14,0,0,31,27,4,27,4,30,1,20,10,31,0,28,3,29,2
